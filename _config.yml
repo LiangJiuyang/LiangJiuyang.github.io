@@ -83,9 +83,9 @@ author:
   name             : "Jiuyang Liang (梁久阳)"
   avatar           : "profile.png"
   bio              : "PhD candidate in computational mathematics at Shanghai Jiao Tong University"
-  location         : "402 Science Bldg, 800 Dongchuan Road"
+  location         : "402 Science Bldg"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Uzp0r0oAAAAJ&hl=zh-CN&oi=ao"
   email            :  "liangjiuyang@sjtu.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Liang-Jiuyang"
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/my-orcid?orcid=0000-0003-0247-4149"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : "https://weibo.com/5282145606"
+  weibo            : "5282145606"
   xing             :
   youtube          :
   wikipedia        :
