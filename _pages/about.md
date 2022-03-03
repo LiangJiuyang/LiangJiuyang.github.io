@@ -26,3 +26,32 @@ Selected Publications
 8. **J. Liang**, P. Tan, L. Hong, S. Jin, Z. Xu and L. Li, A random batch Ewald method for charged particles under the isothermal-isobaric ensemble. arXiv: 2110.14362. (2021)
 9. Z. Gao, **J. Liang** and Z. Xu, A kernel-independent sum-of-exponentials method. arXiv: 2012.13477. (2021)
 
+Talks and Posters
+======
+**Invited Talks**
+1. Dec. 2021, Conference on Computing Technology 2021, Guangfulin Chancellery Hotel.
+2. Oct. 2021, Project Startup Meeting, “Technology Innovation Major Action Plan” of Shanghai Science and Technology Commission, Shanghai Jiao Tong University.
+3. Sep. 2019, The 2nd SJTU-HKBU Joint Workshop, Shanghai Jiao Tong University.
+4. Dec. 2019, The 15th Congress on Computational Methods of Science and Engineering, Shanghai Maritime University.
+
+**Posters**
+1. Jun. 2021, Mathematics in Action (MiA2021): Modeling and Analysis in Molecular Biology and Electrophysiology,
+Duke Kunshan University
+2. Dec. 2019, The 15th Congress on Computational Methods of Science and Engineering, Shanghai Maritime University.
+3. Jun. 2019, Annual Academic Committee of the Ministry of Education Key Laboratory, Shanghai Jiao Tong University
+
+Patent
+======
+1. 2021, Method and System for Calculating Particle Interactions, Publication Number: CN 112733416 A.
+
+Honors and Awards (2017-)
+======
+1. 2021, Shanghai Advanced Research Base of Modern Analysis Scholarship
+2. 2021, National Scholarship
+3. 2020, Huawei Doctoral Scholarship (first-class)
+4. 2019, Kaiyuan scholarship (12 of students at Shanghai Jiao Tong University)
+5. 2018, Zhefu Tao scholarship
+6. 2017-2019, First-class Academic Scholarship at Shanghai Jiao Tong University
+7. 2020 and 2021, Merit Student at Shanghai Jiao Tong University
+8. 2017, 2018 and 2020, Excellent league member at Shanghai Jiao Tong University
+9. 2017, Honorary Graduate at Zhiyuan College
