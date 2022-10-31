@@ -16,10 +16,10 @@ My current research interests include computational mathematics and computationa
 
 Selected Publications
 ======
-1. **J. Liang**, P. Tan, L. Hong, S. Jin, Z. Xu and L. Li, [A random batch Ewald method for charged particles under the isothermal-isobaric ensemble](https://arxiv.org/abs/2110.14362). accepted by J. Chem. Phys. (2022).
-2. Z. Gao, **J. Liang** and Z. Xu, [A kernel-independent sum-of-exponentials method](https://arxiv.org/abs/2012.13477). accepted by J. Sci. Comput. (2022).
-3. **J. Liang**, Z. Xu and Y. Zhao, [Improved random batch Ewald method in molecular dynamics simulations](https://pubs.acs.org/doi/10.1021/acs.jpca.2c01918), J. Phys. Chem. A., 126 (2022), 22, 3583–3593.
-4. **J. Liang**, J. Yuan and Z. Xu, [HSMA: An O(N) electrostatics package implemented in LAMMPS](https://www.sciencedirect.com/science/article/pii/S0010465522000509?via%3Dihub), Comput. Phys. Commun., 276(2022), 108332.
+1. **J. Liang**, P. Tan, L. Hong, S. Jin, Z. Xu and L. Li, [A random batch Ewald method for charged particles under the isothermal-isobaric ensemble](https://arxiv.org/abs/2110.14362). *J. Chem. Phys.*, 157 (2022), 144102.
+2. Z. Gao, **J. Liang** and Z. Xu, [A kernel-independent sum-of-exponentials method](https://link.springer.com/article/10.1007/s10915-022-01999-1), *J. Sci. Comput.*, 93, 40 (2022).
+3. **J. Liang**, Z. Xu and Y. Zhao, [Improved random batch Ewald method in molecular dynamics simulations](https://pubs.acs.org/doi/10.1021/acs.jpca.2c01918), *J. Phys. Chem. A.*, 126 (2022), 22, 3583–3593.
+4. **J. Liang**, J. Yuan and Z. Xu, [HSMA: An O(N) electrostatics package implemented in LAMMPS](https://www.sciencedirect.com/science/article/pii/S0010465522000509?via%3Dihub), *Comput. Phys. Commun.*, 276(2022), 108332.
 5. **J. Liang**, P. Tan, Y. Zhao, L. Li, S. Jin, L. Hong and Z. Xu, [Superscalability of the random batch Ewald method](https://aip.scitation.org/doi/10.1063/5.0073424). *J. Chem. Phys.*, 156 (2021), 014114.
 6. **J. Liang**, Z. Xu and Y. Zhao, [Random-batch list algorithm for short-range molecular dynamics simulations](https://aip.scitation.org/doi/10.1063/5.0056515). *J. Chem. Phys.*, 155 (2021), 044108.
 7. **J. Liang**, Z. Gao and Z. Xu, [A kernel-independent sum-of-Gaussians method by de la Vallée-Poussin sums](https://global-sci.org/intro/article_detail/aamm/19256.html). *Adv. Appl. Math. Mech.*, 13(2021), pp. 1126-1141.
