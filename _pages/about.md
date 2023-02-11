@@ -27,6 +27,8 @@ Selected Publications
 9. **J. Liang**, J. Yuan, E. Luijten and Z. Xu, [Harmonic surface mapping algorithm for molecular dynamics simulations of particle systems with planar dielectric interfaces](https://aip.scitation.org/doi/10.1063/5.0003293). *J. Chem. Phys.*, 152(2020), 134109.
 10. Q. Zhao, **J. Liang** and Z. Xu, [Harmonic surface mapping algorithm for fast electrostatic sums](https://aip.scitation.org/doi/10.1063/1.5044438). *J. Chem. Phys.*, 149(2018), 084111.
 11. **J. Liang**, Z. Xu and Q. Zhou, [Random batch sum-of-Gaussians method for molecular dynamics simulations of particle systems](http://arxiv.org/abs/2205.13824). http://arxiv.org/abs/2205.13824.(2022)
+12. J. Fu, **J. Liang**, B. Perthame, M. Tang, and C. Zhong, Confined run-and-tumble model with boundary aggregation: long time behavior and convergence to the confined Fokker-Planck model, submitted.
+13. **J. Liang**, Z. Xu and Q. Zhou, Error estimate of the u-series method in molecular dynamics simulations, submitted.
 
 Talks and Posters
 ======
@@ -50,12 +52,15 @@ Patent
 
 Honors and Awards (2017-)
 ======
-1. 2021, Shanghai Advanced Research Base of Modern Analysis Scholarship
-2. 2021, National Scholarship
-3. 2020, Huawei Doctoral Scholarship (first-class)
-4. 2019, Kaiyuan scholarship (12 of students at Shanghai Jiao Tong University)
-5. 2018, Zhefu Tao scholarship
-6. 2017-2019, First-class Academic Scholarship at Shanghai Jiao Tong University
-7. 2020 and 2021, Merit Student at Shanghai Jiao Tong University
-8. 2017, 2018 and 2020, Excellent league member at Shanghai Jiao Tong University
-9. 2017, Honorary Graduate at Zhiyuan College
+1. 2022, The 7th Academic Star of Shanghai Jiao Tong University (10 students from various disciplines at Shanghai Jiao Tong University)
+2. 2022, National Scholarship
+3. 2022, Shanghai Outstanding Doctoral Graduates
+4. 2021, Shanghai Advanced Research Base of Modern Analysis Scholarship
+5. 2021, National Scholarship
+6. 2020, Huawei Doctoral Scholarship (first-class)
+7. 2019, Kaiyuan scholarship (12 of students at Shanghai Jiao Tong University)
+8. 2018, Zhefu Tao scholarship
+9. 2017-2019, First-class Academic Scholarship at Shanghai Jiao Tong University
+10. 2020 and 2021, Merit Student at Shanghai Jiao Tong University
+11. 2017, 2018 and 2020, Excellent league member at Shanghai Jiao Tong University
+12. 2017, Honorary Graduate at Zhiyuan College
