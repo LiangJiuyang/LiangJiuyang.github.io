@@ -14,7 +14,7 @@ Research Interests
 ======
 My current research interests include computational mathematics and computational physics, including fast algorithm for electrostatic problem, kernel-independent functional approximation, numerical solution of PDE, high performance computing, and machine learning.
 
-Selected Publications
+Publications and preprints
 ======
 1. **J. Liang**, P. Tan, L. Hong, S. Jin, Z. Xu and L. Li, [A random batch Ewald method for charged particles under the isothermal-isobaric ensemble](https://arxiv.org/abs/2110.14362). *J. Chem. Phys.*, 157 (2022), 144102.
 2. Z. Gao, **J. Liang** and Z. Xu, [A kernel-independent sum-of-exponentials method](https://link.springer.com/article/10.1007/s10915-022-01999-1), *J. Sci. Comput.*, 93, 40 (2022).
