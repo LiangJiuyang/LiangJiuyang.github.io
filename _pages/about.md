@@ -16,7 +16,7 @@ My current research interests include computational mathematics and computationa
 
 Publications and preprints
 ======
-1. **J. Liang**, Z. Xu and Q. Zhou, [Random batch sum-of-Gaussians method for molecular dynamics simulations of particle systems](http://arxiv.org/abs/2205.13824). http://arxiv.org/abs/2205.13824. Accepted by *SIAM J. Sci. Comput.*(2022)
+1. **J. Liang**, Z. Xu and Q. Zhou, [Random batch sum-of-Gaussians method for molecular dynamics simulations of particle systems](http://arxiv.org/abs/2205.13824). http://arxiv.org/abs/2205.13824. Accepted by *SIAM J. Sci. Comput.*(2022).
 2. **J. Liang**, P. Tan, L. Hong, S. Jin, Z. Xu and L. Li, [A random batch Ewald method for charged particles under the isothermal-isobaric ensemble](https://arxiv.org/abs/2110.14362). *J. Chem. Phys.*, 157 (2022), 144102.
 3. Z. Gao, **J. Liang** and Z. Xu, [A kernel-independent sum-of-exponentials method](https://link.springer.com/article/10.1007/s10915-022-01999-1), *J. Sci. Comput.*, 93, 40 (2022).
 4. **J. Liang**, Z. Xu and Y. Zhao, [Improved random batch Ewald method in molecular dynamics simulations](https://pubs.acs.org/doi/10.1021/acs.jpca.2c01918), *J. Phys. Chem. A.*, 126 (2022), 22, 3583–3593.
