@@ -27,7 +27,7 @@ Publications and preprints
 9. **J. Liang**, P. Liu and Z. Xu, [A high-accurate fast Poisson solver based on harmonic surface mapping algorithm](https://global-sci.org/intro/article_detail/cicp/18879.htmlhttps://aip.scitation.org/doi/10.1063/5.0003293). *Commun. Comput. Phys.*, 30(2021), 210-226.
 10. **J. Liang**, J. Yuan, E. Luijten and Z. Xu, [Harmonic surface mapping algorithm for molecular dynamics simulations of particle systems with planar dielectric interfaces](https://aip.scitation.org/doi/10.1063/5.0003293). *J. Chem. Phys.*, 152(2020), 134109.
 11. Q. Zhao, **J. Liang** and Z. Xu, [Harmonic surface mapping algorithm for fast electrostatic sums](https://aip.scitation.org/doi/10.1063/1.5044438). *J. Chem. Phys.*, 149(2018), 084111.
-12. J. Fu, **J. Liang**, B. Perthame, M. Tang, and C. Zhong, Confined run-and-tumble model with boundary aggregation: long time behavior and convergence to the confined Fokker-Planck model, submitted.
+12. J. Fu, **J. Liang**, B. Perthame, M. Tang, and C. Zhong, Confined run-and-tumble model with boundary aggregation: long time behavior and convergence to the confined Fokker-Planck model, MMMAS accepted.
 13. **J. Liang**, Z. Xu and Q. Zhou, Error estimate of the u-series method in molecular dynamics simulations, submitted.
 
 Talks and Posters
