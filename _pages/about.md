@@ -29,7 +29,7 @@ Publications and preprints
 11. **J. Liang**, P. Liu and Z. Xu, [A high-accurate fast Poisson solver based on harmonic surface mapping algorithm](https://global-sci.org/intro/article_detail/cicp/18879.htmlhttps://aip.scitation.org/doi/10.1063/5.0003293). *Commun. Comput. Phys.*, 30(2021), 210-226.
 12. **J. Liang**, J. Yuan, E. Luijten and Z. Xu, [Harmonic surface mapping algorithm for molecular dynamics simulations of particle systems with planar dielectric interfaces](https://aip.scitation.org/doi/10.1063/5.0003293). *J. Chem. Phys.*, 152(2020), 134109.
 13. Q. Zhao, **J. Liang** and Z. Xu, [Harmonic surface mapping algorithm for fast electrostatic sums](https://aip.scitation.org/doi/10.1063/1.5044438). *J. Chem. Phys.*, 149(2018), 084111.
-14. **J. Liang**, Z. Xu and Q. Zhou, [Error estimate of the u-series method in molecular dynamics simulations](arXiv:2305.05369), submitted for peer review.
+14. **J. Liang**, Z. Xu and Q. Zhou, [Error estimate of the u-series method in molecular dynamics simulations](https://arxiv.org/abs/2305.05369), submitted for peer review.
 15. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Fast algorithm for quasi-2D Coulomb systems](https://arxiv.org/abs/2403.01521), submitted for peer review.
 16. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Random batch Ewald method for dielectrically confined Coulomb systems](https://arxiv.org/abs/2405.06333), submitted for peer review.
 17. L. Li, **J. Liang**, and Z. Xu, [A note on accurate pressure calculations of Coulomb systems with  periodic boundary conditions](https://arxiv.org/abs/2406.05627), submitted for peer review.
