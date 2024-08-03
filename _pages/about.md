@@ -12,7 +12,7 @@ I am currently a postdoctoral researcher at SJTU. I receive my Phd degree in 202
 
 Research Interests
 ======
-My current research interests include computational mathematics and computational physics, including fast algorithm for electrostatic problem, kernel-independent functional approximation, numerical solution of PDE, high performance computing, and machine learning.
+My current research interests include computational mathematics and computational physics, including developing fast algorithms for long-range interactions, kernel-independent functional approximation, numerical solutions of PDEs, and their efficient implementations.
 
 Publications and preprints
 ======
