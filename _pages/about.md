@@ -12,7 +12,7 @@ I am currently a postdoctoral researcher jointly at the Flatiron Institute and S
 
 Research Interests
 ======
-My current research interests lie in the fields of computational mathematics and computational physics, with a focus on the development of fast algorithms for long-range interactions, kernel-independent functional approximation, numerical solutions of PDEs, and their high-performance implementations.
+My current research interests lie in computational mathematics and computational physics, with a focus on developing fast algorithms for long-range interactions, kernel-independent functional approximations, numerical solutions of PDEs, and their high-performance implementations.
 
 Publications
 ======
