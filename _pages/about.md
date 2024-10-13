@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher jointly at the Flatiron Institute and Shanghai Jiao Tong University. I receive my Phd degree in 2023 from [School of Mathematical Science](https://math.sjtu.edu.cn/Default/index) and [the Institute of Natural Sciences](https://ins.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I was fortunately advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I obtained my B.S. in Mathematics from Zhiyuan College (Zhiyuan Honors Program) in 2017. 
+I am currently a postdoctoral researcher jointly at the Flatiron Institute and Shanghai Jiao Tong University. I receive my Phd degree in 2023 from [the School of Mathematical Science](https://math.sjtu.edu.cn/Default/index) and [the Institute of Natural Sciences](https://ins.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I was fortunately advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I obtained my B.S. in Mathematics from Zhiyuan College (Zhiyuan Honors Program) in 2017. 
 
 Research Interests
 ======
-My current research interests include computational mathematics and computational physics, including developing fast algorithms for long-range interactions, kernel-independent functional approximation, numerical solutions of PDEs, and their high-performance implementations.
+My current research interests lie in the fields of computational mathematics and computational physics, with a focus on the development of fast algorithms for long-range interactions, kernel-independent functional approximation, numerical solutions of PDEs, and their high-performance implementations.
 
 Publications
 ======
