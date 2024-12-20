@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Flatiron Research Fellow at [the Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/), Simons Foundation. I received my Phd degree in 2023 from [the School of Mathematical Science](https://math.sjtu.edu.cn/Default/index) and [the Institute of Natural Sciences](https://ins.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I was fortunately advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I obtained my B.S. in Mathematics from Zhiyuan College (Zhiyuan Honors Program) in 2017. 
+I am currently a Flatiron Research Fellow at [the Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/), Simons Foundation, where I collaborate with [Prof. Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Leslie Greengard](https://www.simonsfoundation.org/people/leslie-greengard/). I received my Phd degree in 2023 from [the School of Mathematical Science](https://math.sjtu.edu.cn/Default/index) and [the Institute of Natural Sciences](https://ins.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I was fortunately advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I obtained my B.S. in Mathematics from Zhiyuan College (Zhiyuan Honors Program) in 2017. 
 
 Research Interests
 ======
