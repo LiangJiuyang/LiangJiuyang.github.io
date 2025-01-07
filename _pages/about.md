@@ -16,29 +16,29 @@ My current research interests lie in computational mathematics and computational
 
 Publications
 ======
-1. W. Gao, T. Zhao, Y. Guo, **J. Liang**, H. Liu, M. Luo, Z. Luo, W. Qin, Y. Wang, Q. Zhou, S. Jin, and Z. Xu, [RBMD: A molecular dynamics package enabling to simulate 10 million all-atom particles in a single graphics processing unit](https://arxiv.org/abs/2407.09315), accepted by *Commun. Comput. Phys.* (2024).
-2. L. Li, **J. Liang**, and Z. Xu, [A note on accurate pressure calculations of Coulomb systems with  periodic boundary conditions](https://arxiv.org/abs/2406.05627), accepted by *J. Phys. A: Math. Theor.* (2024).
-3. **J. Liang**, Z. Xu and Y. Zhao, [Energy stable scheme for random batch molecular dynamics](https://pubs.aip.org/aip/jcp/article/160/3/034101/2946526/Energy-stable-scheme-for-random-batch-molecular),  *J. Chem. Phys.*, 160(2024), 034101. 
-4. J. Fu, **J. Liang**, B. Perthame, M. Tang, and C. Zhong, [Confined run-and-tumble model with boundary aggregation: long time behavior and convergence to the confined Fokker-Planck model](https://www.worldscientific.com/doi/10.1142/S0218202523500604), *Math. Mod. Meth. Appl. Sci.*, Vol. 33, No. 13, pp. 2743-2783, 2023. 
-5. **J. Liang**, Z. Xu and Q. Zhou, [Random batch sum-of-Gaussians method for molecular dynamics simulations of particle systems](http://arxiv.org/abs/2205.13824). http://arxiv.org/abs/2205.13824. *SIAM J. Sci. Comput.*, 45 (2023), B591-B617. 
-6. **J. Liang**, P. Tan, L. Hong, S. Jin, Z. Xu and L. Li, [A random batch Ewald method for charged particles under the isothermal-isobaric ensemble](https://arxiv.org/abs/2110.14362). *J. Chem. Phys.*, 157 (2022), 144102. 
-7. Z. Gao, **J. Liang** and Z. Xu, [A kernel-independent sum-of-exponentials method](https://link.springer.com/article/10.1007/s10915-022-01999-1), *J. Sci. Comput.*, 93, 40 (2022).
-8. **J. Liang**, Z. Xu and Y. Zhao, [Improved random batch Ewald method in molecular dynamics simulations](https://pubs.acs.org/doi/10.1021/acs.jpca.2c01918), *J. Phys. Chem. A.*, 126 (2022), 22, 3583–3593.
-9. **J. Liang**, J. Yuan and Z. Xu, [HSMA: An O(N) electrostatics package implemented in LAMMPS](https://www.sciencedirect.com/science/article/pii/S0010465522000509?via%3Dihub), *Comput. Phys. Commun.*, 276(2022), 108332.
-10. **J. Liang**, P. Tan, Y. Zhao, L. Li, S. Jin, L. Hong and Z. Xu, [Superscalability of the random batch Ewald method](https://aip.scitation.org/doi/10.1063/5.0073424). *J. Chem. Phys.*, 156 (2021), 014114.
-11. **J. Liang**, Z. Xu and Y. Zhao, [Random-batch list algorithm for short-range molecular dynamics simulations](https://aip.scitation.org/doi/10.1063/5.0056515). *J. Chem. Phys.*, 155 (2021), 044108.
-12. **J. Liang**, Z. Gao and Z. Xu, [A kernel-independent sum-of-Gaussians method by de la Vallée-Poussin sums](https://global-sci.org/intro/article_detail/aamm/19256.html). *Adv. Appl. Math. Mech.*, 13(2021), pp. 1126-1141.
-13. **J. Liang**, P. Liu and Z. Xu, [A high-accurate fast Poisson solver based on harmonic surface mapping algorithm](https://global-sci.org/intro/article_detail/cicp/18879.htmlhttps://aip.scitation.org/doi/10.1063/5.0003293). *Commun. Comput. Phys.*, 30(2021), 210-226.
-14. **J. Liang**, J. Yuan, E. Luijten and Z. Xu, [Harmonic surface mapping algorithm for molecular dynamics simulations of particle systems with planar dielectric interfaces](https://aip.scitation.org/doi/10.1063/5.0003293). *J. Chem. Phys.*, 152(2020), 134109.
-15. Q. Zhao, **J. Liang** and Z. Xu, [Harmonic surface mapping algorithm for fast electrostatic sums](https://aip.scitation.org/doi/10.1063/1.5044438). *J. Chem. Phys.*, 149(2018), 084111.
+1. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Fast algorithm for quasi-2D Coulomb systems](https://arxiv.org/abs/2403.01521), accepted by *J. Comput. Phys.* (2025).
+2. W. Gao, T. Zhao, Y. Guo, **J. Liang**, H. Liu, M. Luo, Z. Luo, W. Qin, Y. Wang, Q. Zhou, S. Jin, and Z. Xu, [RBMD: A molecular dynamics package enabling to simulate 10 million all-atom particles in a single graphics processing unit](https://arxiv.org/abs/2407.09315), accepted by *Commun. Comput. Phys.* (2024).
+3. L. Li, **J. Liang**, and Z. Xu, [A note on accurate pressure calculations of Coulomb systems with  periodic boundary conditions](https://arxiv.org/abs/2406.05627), accepted by *J. Phys. A: Math. Theor.* (2024).
+4. **J. Liang**, Z. Xu and Y. Zhao, [Energy stable scheme for random batch molecular dynamics](https://pubs.aip.org/aip/jcp/article/160/3/034101/2946526/Energy-stable-scheme-for-random-batch-molecular),  *J. Chem. Phys.*, 160(2024), 034101. 
+5. J. Fu, **J. Liang**, B. Perthame, M. Tang, and C. Zhong, [Confined run-and-tumble model with boundary aggregation: long time behavior and convergence to the confined Fokker-Planck model](https://www.worldscientific.com/doi/10.1142/S0218202523500604), *Math. Mod. Meth. Appl. Sci.*, Vol. 33, No. 13, pp. 2743-2783, 2023. 
+6. **J. Liang**, Z. Xu and Q. Zhou, [Random batch sum-of-Gaussians method for molecular dynamics simulations of particle systems](http://arxiv.org/abs/2205.13824). http://arxiv.org/abs/2205.13824. *SIAM J. Sci. Comput.*, 45 (2023), B591-B617. 
+7. **J. Liang**, P. Tan, L. Hong, S. Jin, Z. Xu and L. Li, [A random batch Ewald method for charged particles under the isothermal-isobaric ensemble](https://arxiv.org/abs/2110.14362). *J. Chem. Phys.*, 157 (2022), 144102. 
+8. Z. Gao, **J. Liang** and Z. Xu, [A kernel-independent sum-of-exponentials method](https://link.springer.com/article/10.1007/s10915-022-01999-1), *J. Sci. Comput.*, 93, 40 (2022).
+9. **J. Liang**, Z. Xu and Y. Zhao, [Improved random batch Ewald method in molecular dynamics simulations](https://pubs.acs.org/doi/10.1021/acs.jpca.2c01918), *J. Phys. Chem. A.*, 126 (2022), 22, 3583–3593.
+10. **J. Liang**, J. Yuan and Z. Xu, [HSMA: An O(N) electrostatics package implemented in LAMMPS](https://www.sciencedirect.com/science/article/pii/S0010465522000509?via%3Dihub), *Comput. Phys. Commun.*, 276(2022), 108332.
+11. **J. Liang**, P. Tan, Y. Zhao, L. Li, S. Jin, L. Hong and Z. Xu, [Superscalability of the random batch Ewald method](https://aip.scitation.org/doi/10.1063/5.0073424). *J. Chem. Phys.*, 156 (2021), 014114.
+12. **J. Liang**, Z. Xu and Y. Zhao, [Random-batch list algorithm for short-range molecular dynamics simulations](https://aip.scitation.org/doi/10.1063/5.0056515). *J. Chem. Phys.*, 155 (2021), 044108.
+13. **J. Liang**, Z. Gao and Z. Xu, [A kernel-independent sum-of-Gaussians method by de la Vallée-Poussin sums](https://global-sci.org/intro/article_detail/aamm/19256.html). *Adv. Appl. Math. Mech.*, 13(2021), pp. 1126-1141.
+14. **J. Liang**, P. Liu and Z. Xu, [A high-accurate fast Poisson solver based on harmonic surface mapping algorithm](https://global-sci.org/intro/article_detail/cicp/18879.htmlhttps://aip.scitation.org/doi/10.1063/5.0003293). *Commun. Comput. Phys.*, 30(2021), 210-226.
+15. **J. Liang**, J. Yuan, E. Luijten and Z. Xu, [Harmonic surface mapping algorithm for molecular dynamics simulations of particle systems with planar dielectric interfaces](https://aip.scitation.org/doi/10.1063/5.0003293). *J. Chem. Phys.*, 152(2020), 134109.
+16. Q. Zhao, **J. Liang** and Z. Xu, [Harmonic surface mapping algorithm for fast electrostatic sums](https://aip.scitation.org/doi/10.1063/1.5044438). *J. Chem. Phys.*, 149(2018), 084111.
 
 Preprints
 ======
 1. **J. Liang**, Z. Xu and Q. Zhou, [Error estimate of the u-series method in molecular dynamics simulations](https://arxiv.org/abs/2305.05369).
-2. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Fast algorithm for quasi-2D Coulomb systems](https://arxiv.org/abs/2403.01521).
-3. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Random batch Ewald method for dielectrically confined Coulomb systems](https://arxiv.org/abs/2405.06333).
-4. C. Chen, **J. Liang**, and Z. Xu, [Random batch sum-of-Gaussians algorithm for molecular dynamics simulations of Yukawa systems in three dimensions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4940806).
-5. X. Gao, S. Jiang, **J. Liang**, Z. Xu, Q. Zhou, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595).
+2. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Random batch Ewald method for dielectrically confined Coulomb systems](https://arxiv.org/abs/2405.06333).
+3. C. Chen, **J. Liang**, and Z. Xu, [Random batch sum-of-Gaussians algorithm for molecular dynamics simulations of Yukawa systems in three dimensions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4940806).
+4. X. Gao, S. Jiang, **J. Liang**, Z. Xu, Q. Zhou, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595).
 
 Talks and Posters
 ======
