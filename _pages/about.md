@@ -22,6 +22,8 @@ My current research interests lie in computational mathematics and computational
 
 <!-- ![Random batch Ewald](/images/RBE.jpeg)![RBE_Time](/images/RBE_TIme.jpeg) -->
 
+
+
 Publications
 ======
 1. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Fast algorithm for quasi-2D Coulomb systems](https://arxiv.org/abs/2403.01521), accepted by *J. Comput. Phys.* (2025).
