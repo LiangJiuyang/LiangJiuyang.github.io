@@ -14,13 +14,13 @@ Research Interests
 ======
 My current research interests lie in computational mathematics and computational physics, with a focus on developing fast algorithms for long-range interactions, kernel-independent functional approximations, numerical solutions of PDEs, and their high-performance implementations.
 <center>
-<img src="https://github.com/LiangJiuyang/LiangJiuyang.github.io/blob/master/images/RBE.jpeg" width="600" alt="The RBE Algorithm and Parallel Implementation">
+<img src="/images/RBE.jpeg" width="600" alt="The RBE Algorithm and Parallel Implementation">
 </center>
 <!--<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/LiangJiuyang/LiangJiuyang.github.io/blob/master/images/RBE.jpeg" width="400" alt="Image 1"><img src="https://github.com/LiangJiuyang/LiangJiuyang.github.io/blob/master/images/RBE_TIme.jpeg" width="300" alt="Image 2">
+    <img src="/images/RBE.jpeg" width="400" alt="Image 1"><img src="/images/RBE_TIme.jpeg" width="300" alt="Image 2">
 </div>-->
 
-<!-- ![Random batch Ewald](https://github.com/LiangJiuyang/LiangJiuyang.github.io/blob/master/images/RBE.jpeg)![RBE_Time](https://github.com/LiangJiuyang/LiangJiuyang.github.io/blob/master/images/RBE_TIme.jpeg) -->
+<!-- ![Random batch Ewald](/images/RBE.jpeg)![RBE_Time](/images/RBE_TIme.jpeg) -->
 
 Publications
 ======
