@@ -50,6 +50,7 @@ Preprints
 2. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Random batch Ewald method for dielectrically confined Coulomb systems](https://arxiv.org/abs/2405.06333).
 3. C. Chen, **J. Liang**, and Z. Xu, [Random batch sum-of-Gaussians algorithm for molecular dynamics simulations of Yukawa systems in three dimensions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4940806).
 4. X. Gao, S. Jiang, **J. Liang**, Z. Xu, Q. Zhou, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595).
+5. L. Ji, **J. Liang**, Z. Xu, Machine-learning interatomic potentials for long-range systems, preprint.
 
 Talks and Posters
 ======
