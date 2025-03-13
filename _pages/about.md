@@ -50,7 +50,7 @@ Preprints
 ======
 1. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Random batch Ewald method for dielectrically confined Coulomb systems](https://arxiv.org/abs/2405.06333).
 2. X. Gao, S. Jiang, **J. Liang**, Z. Xu, Q. Zhou, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595).
-3. L. Ji, **J. Liang**, Z. Xu, Machine-learning interatomic potentials for long-range systems (https://arxiv.org/abs/2502.04668).
+3. L. Ji, **J. Liang**, Z. Xu, [Machine-learning interatomic potentials for long-range systems](https://arxiv.org/abs/2502.04668).
 
 Talks and Posters
 ======
