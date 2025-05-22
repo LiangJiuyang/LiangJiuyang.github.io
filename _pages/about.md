@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Flatiron Research Fellow at [the Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/), part of the Simons Foundation, where I work with Prof. [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Leslie Greengard](https://www.simonsfoundation.org/people/leslie-greengard/). I received my Phd degree in 2023 from [the School of Mathematical Science](https://math.sjtu.edu.cn/Default/index) and [the Institute of Natural Sciences](https://ins.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I was fortunately advised by Prof. [Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I obtained my B.S. in Mathematics from Zhiyuan College (Zhiyuan Honors Program) in 2017. (Updated 03/16/2025)
+I am currently a Flatiron Research Fellow at [the Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/), part of the Simons Foundation, where I work with Prof. [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Leslie Greengard](https://www.simonsfoundation.org/people/leslie-greengard/). I received my Phd degree in 2023 from [the School of Mathematical Science](https://math.sjtu.edu.cn/Default/index) and [the Institute of Natural Sciences](https://ins.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I was fortunately advised by Prof. [Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I obtained my B.S. in Mathematics from Zhiyuan College (Zhiyuan Honors Program) in 2017. (Updated 05/22/2025)
 
 Research Interests
 ======
-My current research interests lie in computational mathematics and computational physics, with a focus on developing fast algorithms for long-range interactions, kernel-independent functional approximations, numerical solutions of PDEs, and their high-performance implementations.
+My current research interests lie in computational mathematics and computational physics, with a focus on developing fast algorithms and machine learning interatomic potentials for long-range systems, kernel-independent functional approximations, numerical solutions of PDEs, and their high-performance implementations.
 
 <center>
 <img src="/images/RBE.jpeg" width="600" alt="The RBE Algorithm and Parallel Implementation">  
@@ -27,9 +27,10 @@ My current research interests lie in computational mathematics and computational
 
 Publications
 ======
+1. X. Gao, Q. Zhou, Z. Gan and **J. Liang**, [Accelerating Fast Ewald Summation with Prolates for Molecular Dynamics Simulations](), accepted by *J. Chem. Theory Comput.* (2025).
 1. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Random batch Ewald method for dielectrically confined Coulomb systems](https://arxiv.org/abs/2405.06333), accepted by *SIAM J. Sci. Comput.* (2025).
-1. **J. Liang**, Z. Xu and Q. Zhou, [Error estimate of the u-series method in molecular dynamics simulations](https://arxiv.org/abs/2305.05369), accepted by *Appl. Comput. Harmon. Anal.* (2025).
-17. C. Chen, **J. Liang** and Z. Xu, [Random batch sum-of-Gaussians algorithm for molecular dynamics simulations of Yukawa systems in three dimensions](https://arxiv.org/abs/2205.13824), accepted by *J. Comput. Phys.* (2025).
+1. **J. Liang**, Z. Xu and Q. Zhou, [Error estimate of the u-series method in molecular dynamics simulations](https://arxiv.org/abs/2305.05369), *Appl. Comput. Harmon. Anal.* 77 (2025), 101759.
+17. C. Chen, **J. Liang** and Z. Xu, [Random batch sum-of-Gaussians algorithm for molecular dynamics simulations of Yukawa systems in three dimensions](https://arxiv.org/abs/2205.13824), *J. Comput. Phys.* 531 (2025), 113922.
 16. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Fast algorithm for quasi-2D Coulomb systems](https://www.sciencedirect.com/science/article/pii/S0021999125000166?via%3Dihub), *J. Comput. Phys.* 524 (2025), 113733.
 15. W. Gao, T. Zhao, Y. Guo, **J. Liang**, H. Liu, M. Luo, Z. Luo, W. Qin, Y. Wang, Q. Zhou, S. Jin, and Z. Xu, [RBMD: A molecular dynamics package enabling to simulate 10 million all-atom particles in a single graphics processing unit](https://arxiv.org/abs/2407.09315), accepted by *Commun. Comput. Phys.* (2024).
 14. L. Li, **J. Liang**, and Z. Xu, [ Comment on `Pressure of Coulomb systems with volume-dependent long-range potentials'](https://iopscience.iop.org/article/10.1088/1751-8121/adb3fd), *J. Phys. A: Math. Theor.*, 58 (2025), 088001.
@@ -51,6 +52,7 @@ Preprints
 ======
 1. X. Gao, S. Jiang, **J. Liang**, Z. Xu, Q. Zhou, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595).
 2. L. Ji, **J. Liang**, Z. Xu, [Machine-learning interatomic potentials for long-range systems](https://arxiv.org/abs/2502.04668).
+3. J. Liang, L. Lu, A. Barnett, L. Greengard, S. Jiang, [Accelerating Fast Ewald Summation with Prolates for Molecular Dynamics Simulations](https://arxiv.org/abs/2505.09727).
 
 Talks and Posters
 ======
