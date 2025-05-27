@@ -27,7 +27,7 @@ My current research interests lie in computational mathematics and computational
 
 Publications
 ======
-1. X. Gao, Q. Zhou, Z. Gan and **J. Liang**, [Accelerating Fast Ewald Summation with Prolates for Molecular Dynamics Simulations](), accepted by *J. Chem. Theory Comput.* (2025).
+1. X. Gao, Q. Zhou, Z. Gan and **J. Liang**, [Accurate Error Estimates and Optimal Parameter Selection in Ewald Summation for Dielectrically Confined Coulomb Systems](https://arxiv.org/abs/2503.18126), accepted by *J. Chem. Theory Comput.* (2025).
 1. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Random batch Ewald method for dielectrically confined Coulomb systems](https://arxiv.org/abs/2405.06333), accepted by *SIAM J. Sci. Comput.* (2025).
 1. **J. Liang**, Z. Xu and Q. Zhou, [Error estimate of the u-series method in molecular dynamics simulations](https://arxiv.org/abs/2305.05369), *Appl. Comput. Harmon. Anal.* 77 (2025), 101759.
 17. C. Chen, **J. Liang** and Z. Xu, [Random batch sum-of-Gaussians algorithm for molecular dynamics simulations of Yukawa systems in three dimensions](https://arxiv.org/abs/2205.13824), *J. Comput. Phys.* 531 (2025), 113922.
