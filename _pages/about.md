@@ -30,10 +30,11 @@ Publications
 1. X. Gao, Q. Zhou, Z. Gan and **J. Liang**, [Accurate Error Estimates and Optimal Parameter Selection in Ewald Summation for Dielectrically Confined Coulomb Systems](https://arxiv.org/abs/2503.18126), *J. Chem. Theory Comput.* 21(12):5890-5904, 2025 (in special issue "**Developments of Theoretical and Computational Chemistry Methods in Asia**").
 1. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Random batch Ewald method for dielectrically confined Coulomb systems](https://arxiv.org/abs/2405.06333), accepted by *SIAM J. Sci. Comput.* (2025).
 1. **J. Liang**, Z. Xu and Q. Zhou, [Error estimate of the u-series method in molecular dynamics simulations](https://arxiv.org/abs/2305.05369), *Appl. Comput. Harmon. Anal.* 77 (2025), 101759.
-17. C. Chen, **J. Liang** and Z. Xu, [Random batch sum-of-Gaussians algorithm for molecular dynamics simulations of Yukawa systems in three dimensions](https://arxiv.org/abs/2205.13824), *J. Comput. Phys.* 531 (2025), 113922.
-16. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Fast algorithm for quasi-2D Coulomb systems](https://www.sciencedirect.com/science/article/pii/S0021999125000166?via%3Dihub), *J. Comput. Phys.* 524 (2025), 113733.
-15. W. Gao, T. Zhao, Y. Guo, **J. Liang**, H. Liu, M. Luo, Z. Luo, W. Qin, Y. Wang, Q. Zhou, S. Jin, and Z. Xu, [RBMD: A molecular dynamics package enabling to simulate 10 million all-atom particles in a single graphics processing unit](https://arxiv.org/abs/2407.09315), accepted by *Commun. Comput. Phys.* (2024).
-14. L. Li, **J. Liang**, and Z. Xu, [ Comment on `Pressure of Coulomb systems with volume-dependent long-range potentials'](https://iopscience.iop.org/article/10.1088/1751-8121/adb3fd), *J. Phys. A: Math. Theor.*, 58 (2025), 088001.
+1. C. Chen, **J. Liang** and Z. Xu, [Random batch sum-of-Gaussians algorithm for molecular dynamics simulations of Yukawa systems in three dimensions](https://arxiv.org/abs/2205.13824), *J. Comput. Phys.* 531 (2025), 113922.
+1. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Fast algorithm for quasi-2D Coulomb systems](https://www.sciencedirect.com/science/article/pii/S0021999125000166?via%3Dihub), *J. Comput. Phys.* 524 (2025), 113733.
+1. W. Gao, T. Zhao, Y. Guo, **J. Liang**, H. Liu, M. Luo, Z. Luo, W. Qin, Y. Wang, Q. Zhou, S. Jin, and Z. Xu, [RBMD: A molecular dynamics package enabling to simulate 10 million all-atom particles in a single graphics processing unit](https://arxiv.org/abs/2407.09315), accepted by *Commun. Comput. Phys.* (2024).
+1. L. Li, **J. Liang**, and Z. Xu, [ Comment on `Pressure of Coulomb systems with volume-dependent long-range potentials'](https://iopscience.iop.org/article/10.1088/1751-8121/adb3fd), *J. Phys. A: Math. Theor.*, 58 (2025), 088001.
+1. 基于随机分批埃瓦尔德算法的分子动力学模拟异构加速, 吕奇正等, 2024年全国高性能计算学术年会大会论文集(CCF HPC China 2024), pp. 257-264 (in Chinese).
 13. **J. Liang**, Z. Xu and Y. Zhao, [Energy stable scheme for random batch molecular dynamics](https://pubs.aip.org/aip/jcp/article/160/3/034101/2946526/Energy-stable-scheme-for-random-batch-molecular),  *J. Chem. Phys.*, 160(2024), 034101. 
 12. J. Fu, **J. Liang**, B. Perthame, M. Tang, and C. Zhong, [Confined run-and-tumble model with boundary aggregation: long time behavior and convergence to the confined Fokker-Planck model](https://www.worldscientific.com/doi/10.1142/S0218202523500604), *Math. Mod. Meth. Appl. Sci.*, Vol. 33, No. 13, pp. 2743-2783, 2023. 
 11. **J. Liang**, Z. Xu and Q. Zhou, [Random batch sum-of-Gaussians method for molecular dynamics simulations of particle systems](http://arxiv.org/abs/2205.13824). http://arxiv.org/abs/2205.13824. *SIAM J. Sci. Comput.*, 45 (2023), B591-B617. 
@@ -90,3 +91,7 @@ Honors and Awards (2017-)
 7. 2019, Kaiyuan scholarship (12 of students at Shanghai Jiao Tong University)
 8. 2018, Zhefu Tao scholarship <!-- 10. 2017-2019, First-class Academic Scholarship at Shanghai Jiao Tong University 11. 2020 and 2021, Merit Student at Shanghai Jiao Tong University--> <!--12. 2017, 2018 and 2020, Excellent league member at Shanghai Jiao Tong University-->
 9. 2017, Honorary Graduate at Zhiyuan College
+
+Journal Referees
+======
+SIAM Journal on Applied Mathematics, Journal of Chemical Theory and Computation, Advances in Applied Mathematics and Mechanics, Scientific Reports, Advanced Science
