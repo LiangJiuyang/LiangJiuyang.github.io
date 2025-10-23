@@ -55,7 +55,7 @@ Preprints
 ======
 1. X. Gao, S. Jiang, **J. Liang**, Z. Xu, Q. Zhou, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595).
 2. L. Ji, **J. Liang**, Z. Xu, Accurate learning of long-range interatomic potentials by coupling Cartesian atomic cluster expansion and sum-of-Gaussians neural networks.
-3. J. Liang, L. Lu, A. Barnett, L. Greengard, S. Jiang, [Accelerating Fast Ewald Summation with Prolates for Molecular Dynamics Simulations](https://arxiv.org/abs/2505.09727).
+3. **J. Liang**, L. Lu, A. Barnett, L. Greengard, S. Jiang, [Accelerating Fast Ewald Summation with Prolates for Molecular Dynamics Simulations](https://arxiv.org/abs/2505.09727).
 
 Talks and Posters
 ======
