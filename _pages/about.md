@@ -28,7 +28,7 @@ My current research interests lie in computational mathematics and computational
 Publications
 ======
 1. Y. Ji, **J. Liang**\* and Z. Xu\*, [Machine-learning interatomic potentials for long-range systems](https://journals.aps.org/prl/abstract/10.1103/ssp9-7s81), ***Phys. Rev. Lett.*** 135 (2025), 178001 (selected as **Editor's Suggestion**).
-1. X. Gao, Q. Zhou, Z. Gan* and **J. Liang** *, [Accurate Error Estimates and Optimal Parameter Selection in Ewald Summation for Dielectrically Confined Coulomb Systems](https://arxiv.org/abs/2503.18126), *J. Chem. Theory Comput.* 21(12):5890-5904, 2025 (in special issue "**Developments of Theoretical and Computational Chemistry Methods in Asia**").
+1. X. Gao, Q. Zhou, Z. Gan* and **J. Liang**\*, [Accurate Error Estimates and Optimal Parameter Selection in Ewald Summation for Dielectrically Confined Coulomb Systems](https://arxiv.org/abs/2503.18126), *J. Chem. Theory Comput.* 21(12):5890-5904, 2025 (in special issue "**Developments of Theoretical and Computational Chemistry Methods in Asia**").
 1. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Random batch Ewald method for dielectrically confined Coulomb systems](https://arxiv.org/abs/2405.06333), *SIAM J. Sci. Comput.* 47(2025), B846-B874.
 1. **J. Liang**, Z. Xu and Q. Zhou, [Error estimate of the u-series method in molecular dynamics simulations](https://arxiv.org/abs/2305.05369), *Appl. Comput. Harmon. Anal.* 77 (2025), 101759.
 1. C. Chen, **J. Liang** and Z. Xu, [Random batch sum-of-Gaussians algorithm for molecular dynamics simulations of Yukawa systems in three dimensions](https://arxiv.org/abs/2205.13824), *J. Comput. Phys.* 531 (2025), 113922.
