@@ -35,7 +35,7 @@ Publications
 1. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Fast algorithm for quasi-2D Coulomb systems](https://www.sciencedirect.com/science/article/pii/S0021999125000166?via%3Dihub), *J. Comput. Phys.* 524 (2025), 113733.
 1. W. Gao, T. Zhao, Y. Guo, **J. Liang**, H. Liu, M. Luo, Z. Luo, W. Qin, Y. Wang, Q. Zhou, S. Jin, and Z. Xu\*, [RBMD: A molecular dynamics package enabling to simulate 10 million all-atom particles in a single graphics processing unit](https://arxiv.org/abs/2407.09315), accepted by *Commun. Comput. Phys.* (2025).
 1. L. Li, **J. Liang**, and Z. Xu, [ Comment on `Pressure of Coulomb systems with volume-dependent long-range potentials'](https://iopscience.iop.org/article/10.1088/1751-8121/adb3fd), *J. Phys. A: Math. Theor.*, 58 (2025), 088001.
-1. **J. Liang**, P. Tan, L. Hong, S. Jin, Z. Xu*, and L. Li*, [Response to “Comment on ‘A random batch Ewald method for charged particles in the isothermal–isobaric ensemble’”](https://pubs.aip.org/aip/jcp/article/162/17/177102/3345849/Response-to-Comment-on-A-random-batch-Ewald-method), J. Chem. Phys. 162(2025), 177102. 
+1. **J. Liang**, P. Tan, L. Hong, S. Jin, Z. Xu\*, and L. Li\*, [Response to “Comment on ‘A random batch Ewald method for charged particles in the isothermal–isobaric ensemble’”](https://pubs.aip.org/aip/jcp/article/162/17/177102/3345849/Response-to-Comment-on-A-random-batch-Ewald-method), J. Chem. Phys. 162(2025), 177102. 
 1. 基于随机分批埃瓦尔德算法的分子动力学模拟异构加速, 吕奇正等, 2024年全国高性能计算学术年会大会论文集(CCF HPC China 2024), pp. 257-264 (in Chinese).
 1. **J. Liang**, Z. Xu and Y. Zhao, [Energy stable scheme for random batch molecular dynamics](https://pubs.aip.org/aip/jcp/article/160/3/034101/2946526/Energy-stable-scheme-for-random-batch-molecular),  *J. Chem. Phys.*, 160(2024), 034101. 
 1. J. Fu, **J. Liang**, B. Perthame, M. Tang, and C. Zhong, [Confined run-and-tumble model with boundary aggregation: long time behavior and convergence to the confined Fokker-Planck model](https://www.worldscientific.com/doi/10.1142/S0218202523500604), *Math. Mod. Meth. Appl. Sci.*, Vol. 33, No. 13, pp. 2743-2783, 2023. 
@@ -49,7 +49,7 @@ Publications
 1. **J. Liang**, Z. Gao and Z. Xu\*, [A kernel-independent sum-of-Gaussians method by de la Vallée-Poussin sums](https://global-sci.org/intro/article_detail/aamm/19256.html). *Adv. Appl. Math. Mech.*, 13(2021), pp. 1126-1141.
 1. **J. Liang**, P. Liu and Z. Xu, [A high-accurate fast Poisson solver based on harmonic surface mapping algorithm](https://global-sci.org/intro/article_detail/cicp/18879.htmlhttps://aip.scitation.org/doi/10.1063/5.0003293). *Commun. Comput. Phys.*, 30(2021), 210-226.
 1. **J. Liang**, J. Yuan, E. Luijten and Z. Xu\*, [Harmonic surface mapping algorithm for molecular dynamics simulations of particle systems with planar dielectric interfaces](https://aip.scitation.org/doi/10.1063/5.0003293). *J. Chem. Phys.*, 152(2020), 134109.
-1. Q. Zhao, **J. Liang** and Z. Xu*, [Harmonic surface mapping algorithm for fast electrostatic sums](https://aip.scitation.org/doi/10.1063/1.5044438). *J. Chem. Phys.*, 149(2018), 084111.
+1. Q. Zhao, **J. Liang** and Z. Xu\*, [Harmonic surface mapping algorithm for fast electrostatic sums](https://aip.scitation.org/doi/10.1063/1.5044438). *J. Chem. Phys.*, 149(2018), 084111.
 
 Preprints
 ======
