@@ -70,10 +70,10 @@ Talks and Posters
 8. Sep. 2019, The 2nd SJTU-HKBU Joint Workshop, Shanghai Jiao Tong University. <!--7. Dec. 2019, The 15th Congress on Computational Methods of Science and Engineering, Shanghai Maritime University.-->
 
 **Posters**
-1. Aug. 2023, The First International Congress of Basic Science (ICBS), the Yanqi Lake Beijing Institute of Mathematical Sciences and Applications.
-2. Jun. 2021, Mathematics in Action (MiA2021): Modeling and Analysis in Molecular Biology and Electrophysiology,
-Duke Kunshan University
-3. Dec. 2019, The 15th Congress on Computational Methods of Science and Engineering, Shanghai Maritime University.
+1. Nov. 2025, The 3rd SIAM NNP Section Conference, Penn State, 2025. (**Best Poster Award** among 42 posters)
+2. Aug. 2023, The First International Congress of Basic Science (ICBS), the Yanqi Lake Beijing Institute of Mathematical Sciences and Applications.
+3. Jun. 2021, Mathematics in Action (MiA2021): Modeling and Analysis in Molecular Biology and Electrophysiology, Duke Kunshan University.
+4. Dec. 2019, The 15th Congress on Computational Methods of Science and Engineering, Shanghai Maritime University.
 <!--4. Jun. 2019, Annual Academic Committee of the Ministry of Education Key Laboratory, Shanghai Jiao Tong University-->
 
 Patent
