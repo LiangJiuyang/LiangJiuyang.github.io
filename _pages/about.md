@@ -84,16 +84,17 @@ Patent
 
 Honors and Awards (2017-)
 ======
+1. 2025, Best Poster Award, The 3rd SIAM NNP Section Conference, Penn State, 2025.
 1. 2025, Selected for the Fourth Youth Talent Support Program of the Chinese Society for Industrial and Applied Mathematics (CSIAM)
-2. 2023, Selected for the "Siyuan" Postdoctoral Overseas Fellowship Program
-3. 2022, The 7th Academic Star of Shanghai Jiao Tong University (10 students from various disciplines at Shanghai Jiao Tong University)
-4. 2022, National Scholarship
-5. 2022, Shanghai Outstanding Doctoral Graduates
-6. 2021, Shanghai Advanced Research Base of Modern Analysis Scholarship
-7. 2021, National Scholarship <!--7. 2020, Huawei Doctoral Scholarship (first-class)-->
-8. 2019, Kaiyuan scholarship (12 of students at Shanghai Jiao Tong University)
-9. 2018, Zhefu Tao scholarship <!-- 10. 2017-2019, First-class Academic Scholarship at Shanghai Jiao Tong University 11. 2020 and 2021, Merit Student at Shanghai Jiao Tong University--> <!--12. 2017, 2018 and 2020, Excellent league member at Shanghai Jiao Tong University-->
-10. 2017, Honorary Graduate at Zhiyuan College
+1. 2023, Selected for the "Siyuan" Postdoctoral Overseas Fellowship Program
+1. 2022, The 7th Academic Star of Shanghai Jiao Tong University (10 students from various disciplines at Shanghai Jiao Tong University)
+1. 2022, National Scholarship
+1. 2022, Shanghai Outstanding Doctoral Graduates
+1. 2021, Shanghai Advanced Research Base of Modern Analysis Scholarship
+1. 2021, National Scholarship <!--7. 2020, Huawei Doctoral Scholarship (first-class)-->
+1. 2019, Kaiyuan scholarship (12 of students at Shanghai Jiao Tong University)
+1. 2018, Zhefu Tao scholarship <!-- 10. 2017-2019, First-class Academic Scholarship at Shanghai Jiao Tong University 11. 2020 and 2021, Merit Student at Shanghai Jiao Tong University--> <!--12. 2017, 2018 and 2020, Excellent league member at Shanghai Jiao Tong University-->
+1. 2017, Honorary Graduate at Zhiyuan College
 
 Journal Referees
 ======
