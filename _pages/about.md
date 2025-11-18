@@ -60,6 +60,8 @@ Preprints
 Talks and Posters
 ======
 **Invited Talks**
+1. Nov. 2025, Center for Computational Mathematics Retreat, Mohonk Mountain House, New Paltz.
+1. Nov. 2025, Fast Algorithms Group Meeting, University of Chicago and Flatiron Institute (Online).
 1. May 2025, SIAM Conference on Applications of Dynamical Systems (DS25), Sheraton Denver Downtown Hotel, Denver.
 2. Jul. 2024, International Conference on Scientific Computation and Differential Equations (SciCADE), National University of Singapore, Singapore.
 3. Sep. 2023, Workshop on analysis and computation for interacting particle systems, Shanghai Jiao Tong University.
