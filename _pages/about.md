@@ -78,6 +78,15 @@ Talks and Posters
 4. Dec. 2019, The 15th Congress on Computational Methods of Science and Engineering, Shanghai Maritime University.
 <!--4. Jun. 2019, Annual Academic Committee of the Ministry of Education Key Laboratory, Shanghai Jiao Tong University-->
 
+Mentoring
+======
+1. **Summer Research Intern at the Center for Computational Mathematics (Flatiron Institute)**  
+<span style="font-size:0.6em;">**Position Summary**:</span> Applications are invited for paid, full-time research internships at the Center for Computational Mathematics (CCM) in all our active areas of research. Our mission at CCM is to create new mathematical approaches, algorithms and software to advance scientific research in multiple disciplines, often in collaboration with other Flatiron Centers.  
+<span style="font-size:0.6em;">**Topic**:</span> Fast Algorithm for Monte Carlo Simulations of Particle Systems</span>   
+<span style="font-size:0.6em;">**Duration**:</span> May 2025 - July 2025</span>   
+<span style="font-size:0.6em;">**Co-mentors**:</span> [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/)</span>   
+<span style="font-size:0.6em;">**Student**: [Qi Zhou](https://www.researchgate.net/profile/Qi_Zhou51)</span>   
+
 Patent
 ======
 1. 2021, Method and System for Calculating Particle Interactions, Publication Number: CN 112733416 A.
