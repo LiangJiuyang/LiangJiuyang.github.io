@@ -56,6 +56,7 @@ Publications
 Preprints
 ======
 1. **J. Liang**, L. Lu, A. Barnett, L. Greengard, S. Jiang, [Accelerating Fast Ewald Summation with Prolates for Molecular Dynamics Simulations](https://arxiv.org/abs/2505.09727).
+2. C. Chen, **J. Liang**, Z. Xu, and Q. Zhang, Random Batch Sum-of-Gaussians Method for Molecular Dynamics of Born–Mayer–Huggins Systems.
 
 Talks and Posters
 ======
