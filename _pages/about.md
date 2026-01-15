@@ -28,7 +28,7 @@ My current research interests lie in computational mathematics and computational
 Publications
 ======
 1. X. Gao, S. Jiang, **J. Liang**, Z. Xu, Q. Zhou, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595), accepted by *Numerische Mathematik*.
-1. Y. Ji, **J. Liang**, Z. Xu, Accurate learning of long-range interatomic potentials by coupling Cartesian atomic cluster expansion and sum-of-Gaussians neural networks, accepted by *J. Chem. Phys.*.
+1. Y. Ji, **J. Liang**, Z. Xu, Accurate learning of long-range interatomic potentials by coupling Cartesian atomic cluster expansion and sum-of-Gaussians neural networks, *J. Chem. Phys.* 164 (2026), 024109.
 1. Y. Ji, **J. Liang**\* and Z. Xu\*, [Machine-learning interatomic potentials for long-range systems](https://journals.aps.org/prl/abstract/10.1103/ssp9-7s81), ***Phys. Rev. Lett.*** 135 (2025), 178001 (selected as **Editor's Suggestion**).
 1. X. Gao, Q. Zhou, Z. Gan* and **J. Liang**\*, [Accurate Error Estimates and Optimal Parameter Selection in Ewald Summation for Dielectrically Confined Coulomb Systems](https://arxiv.org/abs/2503.18126), *J. Chem. Theory Comput.* 21(12):5890-5904, 2025 (in special issue "**Developments of Theoretical and Computational Chemistry Methods in Asia**").
 1. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Random batch Ewald method for dielectrically confined Coulomb systems](https://arxiv.org/abs/2405.06333), *SIAM J. Sci. Comput.* 47(2025), B846-B874.
@@ -57,7 +57,8 @@ Preprints
 ======
 1. **J. Liang**, L. Lu, A. Barnett, L. Greengard, S. Jiang, [Accelerating Fast Ewald Summation with Prolates for Molecular Dynamics Simulations](https://arxiv.org/abs/2505.09727).
 2. C. Chen, **J. Liang**, Z. Xu, and Q. Zhang, Random Batch Sum-of-Gaussians Method for Molecular Dynamics of Born–Mayer–Huggins Systems.
-3. **J. Liang**, L. Lu, S. Jiang, [Fast Ewald Summation with Prolates for Charged Systems in the NPT Ensemble](https://arxiv.org/abs/2601.00161).
+3. **J. Liang**, L. Lu, and S. Jiang, [Fast Ewald Summation with Prolates for Charged Systems in the NPT Ensemble](https://arxiv.org/abs/2601.00161).
+4. X. Gao, S. Jiang, **J. Liang**, and Q. Zhou, An O(log N) Monte Carlo method for periodic Coulomb systems.
 
 Talks and Posters
 ======
