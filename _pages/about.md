@@ -64,6 +64,8 @@ Preprints
 Talks and Posters
 ======
 **Invited Talks**
+1. Jun. 2026, International Conference on Scientific Computation and Differential Equations (SciCADE), , .
+1. Jan. 2026, Byte Dance Machine Learning Potential Group, online talk.
 1. Nov. 2025, Center for Computational Mathematics Retreat, Mohonk Mountain House, New Paltz.
 1. Nov. 2025, Fast Algorithms Group Meeting, University of Chicago and Flatiron Institute (Online).
 1. May 2025, SIAM Conference on Applications of Dynamical Systems (DS25), Sheraton Denver Downtown Hotel, Denver.
