@@ -64,7 +64,7 @@ Preprints
 Talks and Posters
 ======
 **Invited Talks**
-1. Jun. 2026, International Conference on Scientific Computation and Differential Equations (SciCADE), , .
+1. Jun. 2026, International Conference on Scientific Computation and Differential Equations (SciCADE), University of Edinburgh.
 1. Jan. 2026, Byte Dance Machine Learning Potential Group, online talk.
 1. Nov. 2025, Center for Computational Mathematics Retreat, Mohonk Mountain House, New Paltz.
 1. Nov. 2025, Fast Algorithms Group Meeting, University of Chicago and Flatiron Institute (Online).
