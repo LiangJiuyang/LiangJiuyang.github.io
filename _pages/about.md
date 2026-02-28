@@ -10,6 +10,8 @@ redirect_from:
 
 I am an Assistant Research Fellow at Shanghai Jiao Tong University. I am also an Affiliate Flatiron Research Fellow at [the Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/), part of the Simons Foundation, where I work with Prof. [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Leslie Greengard](https://www.simonsfoundation.org/people/leslie-greengard/). I received my Phd degree in 2023 from [the School of Mathematical Science](https://math.sjtu.edu.cn/Default/index) and [the Institute of Natural Sciences](https://ins.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I was fortunately advised by Prof. [Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I obtained my B.S. in Mathematics from Zhiyuan College (Zhiyuan Honors Program) in 2017. (Updated 2/26/2026)
 
+I am co-organizing a 2-session minisymposium on the topic **When classical molecular dynamics meets machine learning: algorithms and applications** at the next [Scientific Computing and Differential Equation (SciCADE 2026)](https://scicade.org/) conference in Edinburgh, UK, during June 29-July 3 2026. We would love to have you join us—hope to see you in Edinburgh and enjoy a great conference together!
+
 Research Interests
 ======
 My current research interests lie in computational mathematics and computational physics, with a focus on developing fast algorithms and machine learning interatomic potentials for long-range systems, kernel-independent functional approximations, numerical solutions of PDEs, and their high-performance implementations.
