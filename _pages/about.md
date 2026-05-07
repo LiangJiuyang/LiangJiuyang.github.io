@@ -29,7 +29,7 @@ My current research interests lie in computational mathematics and computational
 
 Publications
 ======
-1. **J. Liang**, L. Lu, A. Barnett, L. Greengard, S. Jiang, [Accelerating Fast Ewald Summation with Prolates for Molecular Dynamics Simulations](https://arxiv.org/abs/2505.09727), ***Nat. Commun.*** accepted in principle.
+1. **J. Liang**, L. Lu, A. Barnett, L. Greengard, S. Jiang, [Accelerating Molecular Dynamics Simulations using Fast Ewald Summation with Prolates](https://arxiv.org/abs/2505.09727), ***Nature Communications*** accepted.
 1. X. Gao, S. Jiang, **J. Liang**, Z. Xu, Q. Zhou, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595), ***Numerische Mathematik*** 158 (2026), 533-585.
 1. Y. Ji, **J. Liang**, Z. Xu, [Accurate learning of long-range interatomic potentials by coupling Cartesian atomic cluster expansion and sum-of-Gaussians neural networks](https://pubs.aip.org/aip/jcp/article/164/2/024109/3377149/Accurate-learning-of-long-range-interatomic), *J. Chem. Phys.* 164 (2026), 024109.
 1. Y. Ji, **J. Liang**\* and Z. Xu\*, [Machine-learning interatomic potentials for long-range systems](https://journals.aps.org/prl/abstract/10.1103/ssp9-7s81), ***Phys. Rev. Lett.*** 135 (2025), 178001 (selected as **Editor's Suggestion**).
