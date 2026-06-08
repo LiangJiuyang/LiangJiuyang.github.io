@@ -62,6 +62,7 @@ Preprints
 ======
 1. **J. Liang**, L. Lu, and S. Jiang, [Fast Ewald Summation with Prolates for Charged Systems in the NPT Ensemble](https://arxiv.org/abs/2601.00161).
 2. Z. Jiang, **J. Liang**, and Q. Zhou, [Random batch sum-of-Gaussians method for molecular dynamics simulation of particle systems in the NPT ensemble](https://arxiv.org/abs/2602.23582).
+3. **J. Liang**, L. Lu, Y. Ji, and S. Jiang, [Prolate spheroidal wave functions enable fast and exponent-aware long-range machine learning interatomic potentials](https://arxiv.org/abs/2606.06617).
 
 Talks and Posters
 ======
