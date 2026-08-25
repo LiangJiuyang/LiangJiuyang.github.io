@@ -31,10 +31,10 @@ My current research interests lie in computational mathematics and computational
 
 Publications
 ======
-1. **J. Liang**, L. Lu, A. Barnett, L. Greengard, S. Jiang, [Accelerating Molecular Dynamics Simulations using Fast Ewald Summation with Prolates](https://arxiv.org/abs/2505.09727), ***Nature Communications***, ISSN:2041-1723 (2026).
-1. **J. Liang**, L. Lu, and S. Jiang, [Fast Ewald Summation with Prolates for Charged Systems in the NPT Ensemble](https://arxiv.org/abs/2601.00161), *Journal of Computational Physics*, in press.
+1. **J. Liang**, L. Lu, A. Barnett, L. Greengard, S. Jiang, [Accelerating Molecular Dynamics Simulations using Fast Ewald Summation with Prolates](https://arxiv.org/abs/2505.09727), ***Nature Communications***, 17 (2026), 6681.
+1. **J. Liang**, L. Lu, and S. Jiang, [Fast Ewald Summation with Prolates for Charged Systems in the NPT Ensemble](https://arxiv.org/abs/2601.00161), *Journal of Computational Physics*, 566 (2026), 115286.
 1. X. Gao, S. Jiang, **J. Liang**\*, Z. Xu, Q. Zhou, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595), ***Numerische Mathematik*** 158 (2026), 533-585.
-1. X. Gao, S. Jiang, **J. Liang**, and Q. Zhou, [An O(log N) Monte Carlo method for periodic Coulomb systems](https://arxiv.org/abs/2601.09288), *SIAM J. Sci. Comput.* accepted.  <!--1. C. Chen, **J. Liang**, Z. Xu, and Q. Zhang, Random Batch Sum-of-Gaussians Method for Molecular Dynamics of Born–Mayer–Huggins Systems, *Adv. Appl. Math. Mech.* in press.-->
+1. X. Gao, S. Jiang, **J. Liang**, and Q. Zhou, [An O(log N) Monte Carlo method for periodic Coulomb systems](https://arxiv.org/abs/2601.09288), *SIAM J. Sci. Comput.* in press.  <!--1. C. Chen, **J. Liang**, Z. Xu, and Q. Zhang, Random Batch Sum-of-Gaussians Method for Molecular Dynamics of Born–Mayer–Huggins Systems, *Adv. Appl. Math. Mech.* in press.-->
 1. Y. Ji, **J. Liang**\*, Z. Xu, [Accurate learning of long-range interatomic potentials by coupling Cartesian atomic cluster expansion and sum-of-Gaussians neural networks](https://pubs.aip.org/aip/jcp/article/164/2/024109/3377149/Accurate-learning-of-long-range-interatomic), *J. Chem. Phys.* 164 (2026), 024109.
 1. Y. Ji, **J. Liang**\* and Z. Xu\*, [Machine-learning interatomic potentials for long-range systems](https://journals.aps.org/prl/abstract/10.1103/ssp9-7s81), ***Phys. Rev. Lett.*** 135 (2025), 178001 (selected as **Editor's Suggestion**).
 1. X. Gao, Q. Zhou, Z. Gan* and **J. Liang**\*, [Accurate Error Estimates and Optimal Parameter Selection in Ewald Summation for Dielectrically Confined Coulomb Systems](https://arxiv.org/abs/2503.18126), *J. Chem. Theory Comput.* 21(12):5890-5904, 2025 (in special issue "**Developments of Theoretical and Computational Chemistry Methods in Asia**").
@@ -63,6 +63,7 @@ Preprints
 ======
 1. Z. Jiang, **J. Liang**, and Q. Zhou, [Random batch sum-of-Gaussians method for molecular dynamics simulation of particle systems in the NPT ensemble](https://arxiv.org/abs/2602.23582).
 2. **J. Liang**, L. Lu, Y. Ji, and S. Jiang, [Prolate spheroidal wave functions enable fast and exponent-aware long-range machine learning interatomic potentials](https://arxiv.org/abs/2606.06617).
+3. **J. Liang**, Accurate error estimation and parameter selection for Ewald summation with prolates.
 
 Talks and Posters
 ======
