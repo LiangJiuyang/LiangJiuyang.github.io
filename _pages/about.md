@@ -122,4 +122,4 @@ Honors and Awards (2017-)
 
 Journal Referees
 ======
-Computer Physics Communications, Physical Review Letters, Nature Communications, SIAM Journal on Applied Mathematics, Journal of Computational Physics, Journal of Chemical Theory and Computation, Advances in Applied Mathematics and Mechanics, Scientific Reports, and Advanced Science.
+Computer Physics Communications, Physical Review Letters, Nature Communications, SIAM Journal on Applied Mathematics, Journal of Computational Physics, Journal of Chemical Theory and Computation, Advances in Applied Mathematics and Mechanics, Chinese Journal of Computers (in Chinese), Scientific Reports, and Advanced Science.
