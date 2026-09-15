@@ -34,7 +34,8 @@ Publications
 1. **J. Liang**, L. Lu, A. Barnett, L. Greengard, S. Jiang, [Accelerating Molecular Dynamics Simulations using Fast Ewald Summation with Prolates](https://arxiv.org/abs/2505.09727), ***Nature Communications***, 17 (2026), 6681.
 1. **J. Liang**, L. Lu, and S. Jiang, [Fast Ewald Summation with Prolates for Charged Systems in the NPT Ensemble](https://arxiv.org/abs/2601.00161), *Journal of Computational Physics*, 566 (2026), 115286.
 1. X. Gao, S. Jiang, **J. Liang**\*, Z. Xu, Q. Zhou, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595), ***Numerische Mathematik*** 158 (2026), 533-585.
-1. X. Gao, S. Jiang, **J. Liang**, and Q. Zhou, [An O(log N) Monte Carlo method for periodic Coulomb systems](https://arxiv.org/abs/2601.09288), *SIAM J. Sci. Comput.* in press.  <!--1. C. Chen, **J. Liang**, Z. Xu, and Q. Zhang, Random Batch Sum-of-Gaussians Method for Molecular Dynamics of Born–Mayer–Huggins Systems, *Adv. Appl. Math. Mech.* in press.-->
+1. X. Gao, S. Jiang, **J. Liang**, and Q. Zhou, [An O(log N) Monte Carlo method for periodic Coulomb systems](https://arxiv.org/abs/2601.09288), *SIAM J. Sci. Comput.* in press.
+1. C. Chen, **J. Liang**, Z. Xu, and Q. Zhang, Random Batch Sum-of-Gaussians Method for Molecular Dynamics of Born–Mayer–Huggins Systems, *Adv. Appl. Math. Mech.* in press.
 1. Y. Ji, **J. Liang**\*, Z. Xu, [Accurate learning of long-range interatomic potentials by coupling Cartesian atomic cluster expansion and sum-of-Gaussians neural networks](https://pubs.aip.org/aip/jcp/article/164/2/024109/3377149/Accurate-learning-of-long-range-interatomic), *J. Chem. Phys.* 164 (2026), 024109.
 1. Y. Ji, **J. Liang**\* and Z. Xu\*, [Machine-learning interatomic potentials for long-range systems](https://journals.aps.org/prl/abstract/10.1103/ssp9-7s81), ***Phys. Rev. Lett.*** 135 (2025), 178001 (selected as **Editor's Suggestion**).
 1. X. Gao, Q. Zhou, Z. Gan* and **J. Liang**\*, [Accurate Error Estimates and Optimal Parameter Selection in Ewald Summation for Dielectrically Confined Coulomb Systems](https://arxiv.org/abs/2503.18126), *J. Chem. Theory Comput.* 21(12):5890-5904, 2025 (in special issue "**Developments of Theoretical and Computational Chemistry Methods in Asia**").
@@ -44,7 +45,8 @@ Publications
 1. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Fast algorithm for quasi-2D Coulomb systems](https://www.sciencedirect.com/science/article/pii/S0021999125000166?via%3Dihub), *J. Comput. Phys.* 524 (2025), 113733.
 1. W. Gao, T. Zhao, Y. Guo, **J. Liang**, H. Liu, M. Luo, Z. Luo, W. Qin, Y. Wang, Q. Zhou, S. Jin, and Z. Xu\*, [RBMD: A molecular dynamics package enabling to simulate 10 million all-atom particles in a single graphics processing unit](https://arxiv.org/abs/2407.09315), *Commun. Comput. Phys.*, 39(1) (2026), 296--322.
 1. L. Li, **J. Liang**, and Z. Xu, [ Comment on `Pressure of Coulomb systems with volume-dependent long-range potentials'](https://iopscience.iop.org/article/10.1088/1751-8121/adb3fd), *J. Phys. A: Math. Theor.*, 58 (2025), 088001.
-1. **J. Liang**, P. Tan, L. Hong, S. Jin, Z. Xu\*, and L. Li\*, [Response to “Comment on ‘A random batch Ewald method for charged particles in the isothermal–isobaric ensemble’”](https://pubs.aip.org/aip/jcp/article/162/17/177102/3345849/Response-to-Comment-on-A-random-batch-Ewald-method), J. Chem. Phys. 162(2025), 177102. <!--1. 基于随机分批埃瓦尔德算法的分子动力学模拟异构加速, 吕奇正等, 2024年全国高性能计算学术年会大会论文集(CCF HPC China 2024), pp. 257-264 (in Chinese).-->
+1. **J. Liang**, P. Tan, L. Hong, S. Jin, Z. Xu\*, and L. Li\*, [Response to “Comment on ‘A random batch Ewald method for charged particles in the isothermal–isobaric ensemble’”](https://pubs.aip.org/aip/jcp/article/162/17/177102/3345849/Response-to-Comment-on-A-random-batch-Ewald-method), J. Chem. Phys. 162(2025), 177102.
+1. 基于随机分批埃瓦尔德算法的分子动力学模拟异构加速, 吕奇正等, 2024年全国高性能计算学术年会大会论文集(CCF HPC China 2024), pp. 257-264 (in Chinese).
 1. **J. Liang**, Z. Xu and Y. Zhao, [Energy stable scheme for random batch molecular dynamics](https://pubs.aip.org/aip/jcp/article/160/3/034101/2946526/Energy-stable-scheme-for-random-batch-molecular),  *J. Chem. Phys.*, 160(2024), 034101. 
 1. J. Fu, **J. Liang**, B. Perthame, M. Tang, and C. Zhong, [Confined run-and-tumble model with boundary aggregation: long time behavior and convergence to the confined Fokker-Planck model](https://www.worldscientific.com/doi/10.1142/S0218202523500604), *Math. Mod. Meth. Appl. Sci.*, Vol. 33, No. 13, pp. 2743-2783, 2023. 
 1. **J. Liang**, Z. Xu and Q. Zhou, [Random batch sum-of-Gaussians method for molecular dynamics simulations of particle systems](http://arxiv.org/abs/2205.13824). http://arxiv.org/abs/2205.13824. *SIAM J. Sci. Comput.*, 45 (2023), B591-B617. 
@@ -68,7 +70,8 @@ Preprints
 Talks and Posters
 ======
 **Invited Talks**
-1. Jun. 2026, International Conference on Scientific Computation and Differential Equations (SciCADE), University of Edinburgh. <!--1. Jan. 2026, Byte Dance Machine Learning Potential Group, online talk.-->
+1. Jun. 2026, International Conference on Scientific Computation and Differential Equations (SciCADE), University of Edinburgh.
+1. Jan. 2026, Byte Dance Machine Learning Potential Group, online talk.
 1. Apr. 2026, Department of Mathematics, Hunan Normal University, online talk.
 1. Nov. 2025, Center for Computational Mathematics Retreat, Mohonk Mountain House, New Paltz.
 1. Nov. 2025, Fast Algorithms Group Meeting, University of Chicago and Flatiron Institute (Online).
@@ -79,14 +82,15 @@ Talks and Posters
 5. Jun. 2023, Mini-Workshop on Scientific Computing: Algorithm and Modeling, Shanghai Jiao Tong University.
 6. Dec. 2021, Conference on Computing Technology 2021, Guangfulin Chancellery Hotel.
 7. Oct. 2021, Project Startup Meeting, “Technology Innovation Major Action Plan” of Shanghai Science and Technology Commission, Shanghai Jiao Tong University.
-8. Sep. 2019, The 2nd SJTU-HKBU Joint Workshop, Shanghai Jiao Tong University. <!--7. Dec. 2019, The 15th Congress on Computational Methods of Science and Engineering, Shanghai Maritime University.-->
+8. Dec. 2019, The 15th Congress on Computational Methods of Science and Engineering, Shanghai Maritime University.
+9. Sep. 2019, The 2nd SJTU-HKBU Joint Workshop, Shanghai Jiao Tong University.
 
 **Posters**
 1. Nov. 2025, The 3rd SIAM NNP Section Conference, Penn State, 2025. (**Best Poster Award** among 42 posters)
 2. Aug. 2023, The First International Congress of Basic Science (ICBS), the Yanqi Lake Beijing Institute of Mathematical Sciences and Applications.
 3. Jun. 2021, Mathematics in Action (MiA2021): Modeling and Analysis in Molecular Biology and Electrophysiology, Duke Kunshan University.
 4. Dec. 2019, The 15th Congress on Computational Methods of Science and Engineering, Shanghai Maritime University.
-<!--4. Jun. 2019, Annual Academic Committee of the Ministry of Education Key Laboratory, Shanghai Jiao Tong University-->
+5. Jun. 2019, Annual Academic Committee of the Ministry of Education Key Laboratory, Shanghai Jiao Tong University
 
 Mentoring
 ======
