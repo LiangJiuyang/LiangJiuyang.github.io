@@ -14,9 +14,9 @@ I have been an Assistant Research Fellow at Shanghai Jiao Tong University since 
 
 Research Interests
 ======
-My current research interests lie in computational mathematics and computational physics, with a focus on molecular dynamics and Monte Carlo simulations, fast algorithms for long-range interactions, sum-of-Gaussian and sum-of-exponential approximations, and numerical methods for partial differential equations.
+<!--My current research interests lie in computational mathematics and computational physics, with a focus on molecular dynamics and Monte Carlo simulations, fast algorithms for long-range interactions, sum-of-Gaussian and sum-of-exponential approximations, and numerical methods for partial differential equations.-->
 
-<!--My current research interests lie in computational mathematics and computational physics, with a focus on developing fast algorithms and machine learning interatomic potentials for long-range systems, kernel-independent functional approximations, numerical solutions of PDEs, and their high-performance implementations.-->
+My current research interests lie in computational mathematics and computational physics, with a focus on developing fast algorithms and machine learning interatomic potentials for long-range systems, kernel-independent functional approximations, numerical solutions of PDEs, and their high-performance implementations.
 
 <center>
 <img src="/images/RBE.jpeg" width="600" alt="The RBE Algorithm and Parallel Implementation">  
