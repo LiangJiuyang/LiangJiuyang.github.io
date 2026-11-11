@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have been an Assistant Research Fellow at Shanghai Jiao Tong University since 2023. I am currently on a research visit to [the Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/), where I work with Profs. [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Leslie Greengard](https://www.simonsfoundation.org/people/leslie-greengard/). I received my Phd degree in 2023 from [the School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) and [the Institute of Natural Sciences](https://ins.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I was fortunate to be advised by Prof. [Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I obtained my B.S. in Mathematics from Zhiyuan College (Zhiyuan Honors Program) in 2017. (Updated 7/7/2026)
+I have been an Assistant Research Fellow at Shanghai Jiao Tong University since 2023. I am currently on a research visit to [the Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/), where I work with Profs. [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Leslie Greengard](https://www.simonsfoundation.org/people/leslie-greengard/). I received my Phd degree in 2023 from [the School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) and [the Institute of Natural Sciences](https://ins.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I was fortunate to be advised by Prof. [Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I obtained my B.S. in Mathematics from Zhiyuan College (Zhiyuan Honors Program) in 2017. (Updated 11/10/2026)
 
 <!--I am co-organizing a 2-session minisymposium on the topic **When classical molecular dynamics meets machine learning: algorithms and applications** at the next [Scientific Computing and Differential Equation (SciCADE 2026)](https://scicade.org/) conference in Edinburgh, UK, during June 29-July 3 2026. We would love to have you join us—hope to see you in Edinburgh and enjoy a great conference together!-->
 
@@ -70,8 +70,10 @@ Preprints
 Talks and Posters
 ======
 **Invited Talks**
+1. Sep. 2026, Institute of Metal Research, Chinese Academy of Sciences, Shenyang, China.
+1. Aug. 2026, Institute of Natural Sciences, Shanghai Jiao Tong University, Shanghai, China.
 1. Jun. 2026, International Conference on Scientific Computation and Differential Equations (SciCADE), University of Edinburgh.
-1. Jan. 2026, Byte Dance Machine Learning Potential Group, online talk.
+1. Jan. 2026, ByteDance Machine Learning Potential Group, online talk.
 1. Apr. 2026, Department of Mathematics, Hunan Normal University, online talk.
 1. Nov. 2025, Center for Computational Mathematics Retreat, Mohonk Mountain House, New Paltz.
 1. Nov. 2025, Fast Algorithms Group Meeting, University of Chicago and Flatiron Institute (Online).
@@ -84,6 +86,10 @@ Talks and Posters
 7. Oct. 2021, Project Startup Meeting, “Technology Innovation Major Action Plan” of Shanghai Science and Technology Commission, Shanghai Jiao Tong University.
 8. Dec. 2019, The 15th Congress on Computational Methods of Science and Engineering, Shanghai Maritime University.
 9. Sep. 2019, The 2nd SJTU-HKBU Joint Workshop, Shanghai Jiao Tong University.
+
+**Conference Organization**
+
+1. 2026, Co-organizer, Two-session Minisymposium on “When Classical Molecular Dynamics Meets Machine Learning: Algorithms and Applications,” International Conference on Scientific Computation and Differential Equations (SciCADE 2026), University of Edinburgh, UK, June 29–July 3, 2026.
 
 **Posters**
 1. Nov. 2025, The 3rd SIAM NNP Section Conference, Penn State, 2025. (**Best Poster Award** among 42 posters)
@@ -123,6 +129,13 @@ Honors and Awards (2017-)
 1. 2017, Honorary Graduate at Zhiyuan College
 
 <!--\begin{enumerate}\item 2025-2027, Principal Investigator, The Fourth Youth Talent Support Program of the Chinese Society for Industrial and Applied Mathematics (CSIAM).\item 2025-2027, Principal Investigator, Young Scientists Fund of the National Natural Science Foundation of China.\item 2024-2027, Principal Investigator, General Program of the China Postdoctoral Science Foundation.\end{enumerate}-->
+
+Research Grants and Talent Programs
+======
+1. 2026, Selected for the Young Top-Notch Talents Program of the National Special Support Program for High-Level Talents.
+1. 2025, Selected for the Fourth Youth Talent Support Program of the Chinese Society for Industrial and Applied Mathematics (CSIAM).
+1. 2025–2027, Principal Investigator, Young Scientists Fund, National Natural Science Foundation of China (NSFC).
+1. 2024–2027, Principal Investigator, General Program, China Postdoctoral Science Foundation.
 
 Journal Referees
 ======
