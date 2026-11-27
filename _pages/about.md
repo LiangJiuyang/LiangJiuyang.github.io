@@ -1,142 +1,41 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Jiuyang Liang (梁久阳)"
+excerpt: "Computational mathematics, fast algorithms, and machine-learning potentials for long-range systems."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I have been an Assistant Research Fellow at Shanghai Jiao Tong University since 2023. I am currently on a research visit to [the Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/), where I work with Profs. [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Leslie Greengard](https://www.simonsfoundation.org/people/leslie-greengard/). I received my Phd degree in 2023 from [the School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) and [the Institute of Natural Sciences](https://ins.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I was fortunate to be advised by Prof. [Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I obtained my B.S. in Mathematics from Zhiyuan College (Zhiyuan Honors Program) in 2017. (Updated 11/10/2026)
+I work in computational mathematics and scientific computing. I develop fast algorithms and machine-learning interatomic potentials for systems where particles interact over long distances. My work combines mathematical analysis, algorithm development, and high-performance computing for molecular dynamics, Monte Carlo simulation, and numerical PDEs.
 
-<!--I am co-organizing a 2-session minisymposium on the topic **When classical molecular dynamics meets machine learning: algorithms and applications** at the next [Scientific Computing and Differential Equation (SciCADE 2026)](https://scicade.org/) conference in Edinburgh, UK, during June 29-July 3 2026. We would love to have you join us—hope to see you in Edinburgh and enjoy a great conference together!-->
+I am an Assistant Research Fellow at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and a visiting scholar at the [Center for Computational Mathematics, Flatiron Institute](https://www.simonsfoundation.org/people/jiuyang-liang/), where I work with [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Leslie Greengard](https://www.simonsfoundation.org/people/leslie-greengard/).
 
-Research Interests
-======
-<!--My current research interests lie in computational mathematics and computational physics, with a focus on molecular dynamics and Monte Carlo simulations, fast algorithms for long-range interactions, sum-of-Gaussian and sum-of-exponential approximations, and numerical methods for partial differential equations.-->
+## Research interests
 
-My current research interests lie in computational mathematics and computational physics, with a focus on developing fast algorithms and machine learning interatomic potentials for long-range systems, kernel-independent functional approximations, numerical solutions of PDEs, and their high-performance implementations.
+- **Fast algorithms for particle systems.** I develop kernel approximations, spectral methods, and randomized algorithms for efficient long-range calculations, including electrostatics in bulk and at interfaces.
+- **Machine learning for long-range interactions.** I study how to represent nonlocal interactions in interatomic potentials, with an emphasis on electrostatics and polarization.
+- **Fast solvers for PDEs.** I work on kernel splitting and fast convolution for wave and potential problems.
 
-<center>
-<img src="/images/RBE.jpeg" width="600" alt="The RBE Algorithm and Parallel Implementation">  
-</center>  
-<!--<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="/images/RBE.jpeg" width="400" alt="Image 1"><img src="/images/RBE_TIme.jpeg" width="300" alt="Image 2">
-</div>-->
+## Selected publications
+{: #publications}
 
-<!-- ![Random batch Ewald](/images/RBE.jpeg)![RBE_Time](/images/RBE_TIme.jpeg) -->
+- **Ewald summation with prolates (ESP).** We use prolate spheroidal wave functions to reduce the grid and communication costs of long-range electrostatics in molecular dynamics. [Nature Communications, 2026](https://doi.org/10.1038/s41467-026-73232-8)
+- **Machine-learning interatomic potentials for long-range systems (SOG-Net).** We use a sum-of-Gaussians representation to learn long-range interactions in molecular and condensed-phase systems. [Physical Review Letters, 2025](https://doi.org/10.1103/ssp9-7s81) (Editors’ Suggestion)
+- **Spectral electrostatics in quasi-2D systems.** We develop a fast sum-of-Gaussians method with spectral accuracy for systems periodic in two directions and nonperiodic in the third. [Numerische Mathematik, 2026](https://doi.org/10.1007/s00211-025-01518-y)
+- **Fast Monte Carlo for periodic Coulomb systems.** We develop an algorithm with logarithmic cost per Monte Carlo step for periodic systems with long-range Coulomb interactions. [SIAM Journal on Scientific Computing, 2026](https://doi.org/10.1137/26M1841938)
 
-<br><br>
+[Full publication list]({{ '/publications/' | relative_url }}) · [Preprints]({{ '/publications/' | relative_url }}#preprints){: #preprints}
 
-Publications
-======
-1. **J. Liang**, L. Lu, A. Barnett, L. Greengard, S. Jiang, [Accelerating Molecular Dynamics Simulations using Fast Ewald Summation with Prolates](https://arxiv.org/abs/2505.09727), ***Nature Communications***, 17 (2026), 6681.
-1. **J. Liang**, L. Lu, and S. Jiang, [Fast Ewald Summation with Prolates for Charged Systems in the NPT Ensemble](https://arxiv.org/abs/2601.00161), *Journal of Computational Physics*, 566 (2026), 115286.
-1. X. Gao, S. Jiang, **J. Liang**\*, Z. Xu, Q. Zhou, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595), ***Numerische Mathematik*** 158 (2026), 533-585.
-1. X. Gao, S. Jiang, **J. Liang**, and Q. Zhou, [An O(log N) Monte Carlo method for periodic Coulomb systems](https://arxiv.org/abs/2601.09288), *SIAM J. Sci. Comput.* 48(5) (2026), A3182–A3207.
-1. C. Chen, **J. Liang**, Z. Xu, and Q. Zhang, Random Batch Sum-of-Gaussians Method for Molecular Dynamics of Born–Mayer–Huggins Systems, *Adv. Appl. Math. Mech.* 19(2) (2027), 604–627.
-1. Y. Ji, **J. Liang**\*, Z. Xu, [Accurate learning of long-range interatomic potentials by coupling Cartesian atomic cluster expansion and sum-of-Gaussians neural networks](https://pubs.aip.org/aip/jcp/article/164/2/024109/3377149/Accurate-learning-of-long-range-interatomic), *J. Chem. Phys.* 164 (2026), 024109.
-1. Y. Ji, **J. Liang**\* and Z. Xu\*, [Machine-learning interatomic potentials for long-range systems](https://journals.aps.org/prl/abstract/10.1103/ssp9-7s81), ***Phys. Rev. Lett.*** 135 (2025), 178001 (selected as **Editor's Suggestion**).
-1. X. Gao, Q. Zhou, Z. Gan* and **J. Liang**\*, [Accurate Error Estimates and Optimal Parameter Selection in Ewald Summation for Dielectrically Confined Coulomb Systems](https://arxiv.org/abs/2503.18126), *J. Chem. Theory Comput.* 21(12):5890-5904, 2025 (in special issue "**Developments of Theoretical and Computational Chemistry Methods in Asia**").
-1. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Random batch Ewald method for dielectrically confined Coulomb systems](https://arxiv.org/abs/2405.06333), *SIAM J. Sci. Comput.* 47(2025), B846-B874.
-1. **J. Liang**, Z. Xu and Q. Zhou, [Error estimate of the u-series method in molecular dynamics simulations](https://arxiv.org/abs/2305.05369), *Appl. Comput. Harmon. Anal.* 77 (2025), 101759.
-1. C. Chen, **J. Liang** and Z. Xu, [Random batch sum-of-Gaussians algorithm for molecular dynamics simulations of Yukawa systems in three dimensions](https://arxiv.org/abs/2205.13824), *J. Comput. Phys.* 531 (2025), 113922.
-1. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Fast algorithm for quasi-2D Coulomb systems](https://www.sciencedirect.com/science/article/pii/S0021999125000166?via%3Dihub), *J. Comput. Phys.* 524 (2025), 113733.
-1. W. Gao, T. Zhao, Y. Guo, **J. Liang**, H. Liu, M. Luo, Z. Luo, W. Qin, Y. Wang, Q. Zhou, S. Jin, and Z. Xu\*, [RBMD: A molecular dynamics package enabling to simulate 10 million all-atom particles in a single graphics processing unit](https://arxiv.org/abs/2407.09315), *Commun. Comput. Phys.*, 39(1) (2026), 296--322.
-1. L. Li, **J. Liang**, and Z. Xu, [ Comment on `Pressure of Coulomb systems with volume-dependent long-range potentials'](https://iopscience.iop.org/article/10.1088/1751-8121/adb3fd), *J. Phys. A: Math. Theor.*, 58 (2025), 088001.
-1. **J. Liang**, P. Tan, L. Hong, S. Jin, Z. Xu\*, and L. Li\*, [Response to “Comment on ‘A random batch Ewald method for charged particles in the isothermal–isobaric ensemble’”](https://pubs.aip.org/aip/jcp/article/162/17/177102/3345849/Response-to-Comment-on-A-random-batch-Ewald-method), J. Chem. Phys. 162(2025), 177102.
-1. 基于随机分批埃瓦尔德算法的分子动力学模拟异构加速, 吕奇正等, 2024年全国高性能计算学术年会大会论文集(CCF HPC China 2024), pp. 257-264 (in Chinese).
-1. **J. Liang**, Z. Xu and Y. Zhao, [Energy stable scheme for random batch molecular dynamics](https://pubs.aip.org/aip/jcp/article/160/3/034101/2946526/Energy-stable-scheme-for-random-batch-molecular),  *J. Chem. Phys.*, 160(2024), 034101. 
-1. J. Fu, **J. Liang**, B. Perthame, M. Tang, and C. Zhong, [Confined run-and-tumble model with boundary aggregation: long time behavior and convergence to the confined Fokker-Planck model](https://www.worldscientific.com/doi/10.1142/S0218202523500604), *Math. Mod. Meth. Appl. Sci.*, Vol. 33, No. 13, pp. 2743-2783, 2023. 
-1. **J. Liang**, Z. Xu and Q. Zhou, [Random batch sum-of-Gaussians method for molecular dynamics simulations of particle systems](http://arxiv.org/abs/2205.13824). http://arxiv.org/abs/2205.13824. *SIAM J. Sci. Comput.*, 45 (2023), B591-B617. 
-1. **J. Liang**, P. Tan, L. Hong, S. Jin, Z. Xu\* and L. Li\*, [A random batch Ewald method for charged particles under the isothermal-isobaric ensemble](https://arxiv.org/abs/2110.14362). *J. Chem. Phys.*, 157 (2022), 144102. 
-1. Z. Gao, **J. Liang** and Z. Xu, [A kernel-independent sum-of-exponentials method](https://link.springer.com/article/10.1007/s10915-022-01999-1), *J. Sci. Comput.*, 93, 40 (2022).
-1. **J. Liang**, Z. Xu and Y. Zhao, [Improved random batch Ewald method in molecular dynamics simulations](https://pubs.acs.org/doi/10.1021/acs.jpca.2c01918), *J. Phys. Chem. A.*, 126 (2022), 22, 3583–3593.
-1. **J. Liang**, J. Yuan and Z. Xu\*, [HSMA: An O(N) electrostatics package implemented in LAMMPS](https://www.sciencedirect.com/science/article/pii/S0010465522000509?via%3Dihub), *Comput. Phys. Commun.*, 276(2022), 108332.
-1. **J. Liang**, P. Tan, Y. Zhao, L. Li, S. Jin, L. Hong\* and Z. Xu\*, [Superscalability of the random batch Ewald method](https://aip.scitation.org/doi/10.1063/5.0073424). *J. Chem. Phys.*, 156 (2021), 014114.
-1. **J. Liang**, Z. Xu and Y. Zhao, [Random-batch list algorithm for short-range molecular dynamics simulations](https://aip.scitation.org/doi/10.1063/5.0056515). *J. Chem. Phys.*, 155 (2021), 044108.
-1. **J. Liang**, Z. Gao and Z. Xu\*, [A kernel-independent sum-of-Gaussians method by de la Vallée-Poussin sums](https://global-sci.org/intro/article_detail/aamm/19256.html). *Adv. Appl. Math. Mech.*, 13(2021), pp. 1126-1141.
-1. **J. Liang**, P. Liu and Z. Xu, [A high-accurate fast Poisson solver based on harmonic surface mapping algorithm](https://global-sci.org/intro/article_detail/cicp/18879.htmlhttps://aip.scitation.org/doi/10.1063/5.0003293). *Commun. Comput. Phys.*, 30(2021), 210-226.
-1. **J. Liang**, J. Yuan, E. Luijten and Z. Xu\*, [Harmonic surface mapping algorithm for molecular dynamics simulations of particle systems with planar dielectric interfaces](https://aip.scitation.org/doi/10.1063/5.0003293). *J. Chem. Phys.*, 152(2020), 134109.
-1. Q. Zhao, **J. Liang** and Z. Xu\*, [Harmonic surface mapping algorithm for fast electrostatic sums](https://aip.scitation.org/doi/10.1063/1.5044438). *J. Chem. Phys.*, 149(2018), 084111.
+## Research software
+{: #software}
 
-Preprints
-======
-1. Z. Jiang, **J. Liang**, and Q. Zhou, [Random batch sum-of-Gaussians method for molecular dynamics simulation of particle systems in the NPT ensemble](https://arxiv.org/abs/2602.23582).
-2. **J. Liang**, L. Lu, Y. Ji, and S. Jiang, [Prolate spheroidal wave functions enable fast and exponent-aware long-range machine learning interatomic potentials](https://arxiv.org/abs/2606.06617).
-3. **J. Liang**, Accurate error estimation and parameter selection for Ewald summation with prolates.
+- **Ewald summation with prolates:** available in [LAMMPS as `kspace_style esp`](https://docs.lammps.org/kspace_style.html) ([development repository](https://github.com/LiangJiuyang/Ewald-Splitting-with-Prolates)). See also the [GROMACS implementation](https://github.com/lu1and10/Ewald-Splitting-with-Prolates). The [OpenMM integration of NVIDIA cuPotential](https://docs.nvidia.com/cuda/cupotential/theory/splitting) uses prolate splitting by default.
+- **Automatic slab sizing in LAMMPS:** [`kspace_modify slab auto`](https://docs.lammps.org/kspace_modify.html) selects the slab extension for quasi-2D Ewald and PPPM electrostatics from the force tolerance and box geometry.
 
-Talks and Posters
-======
-**Invited Talks**
-1. Sep. 2026, Institute of Metal Research, Chinese Academy of Sciences, Shenyang, China.
-1. Aug. 2026, Institute of Natural Sciences, Shanghai Jiao Tong University, Shanghai, China.
-1. Jun. 2026, International Conference on Scientific Computation and Differential Equations (SciCADE), University of Edinburgh.
-1. Jan. 2026, ByteDance Machine Learning Potential Group, online talk.
-1. Apr. 2026, Department of Mathematics, Hunan Normal University, online talk.
-1. Nov. 2025, Center for Computational Mathematics Retreat, Mohonk Mountain House, New Paltz.
-1. Nov. 2025, Fast Algorithms Group Meeting, University of Chicago and Flatiron Institute (Online).
-1. May 2025, SIAM Conference on Applications of Dynamical Systems (DS25), Sheraton Denver Downtown Hotel, Denver.
-2. Jul. 2024, International Conference on Scientific Computation and Differential Equations (SciCADE), National University of Singapore, Singapore.
-3. Sep. 2023, Workshop on analysis and computation for interacting particle systems, Shanghai Jiao Tong University.
-4. Aug. 2023, Minisymposium talk, ICIAM 2023, Tokyo, Japan.
-5. Jun. 2023, Mini-Workshop on Scientific Computing: Algorithm and Modeling, Shanghai Jiao Tong University.
-6. Dec. 2021, Conference on Computing Technology 2021, Guangfulin Chancellery Hotel.
-7. Oct. 2021, Project Startup Meeting, “Technology Innovation Major Action Plan” of Shanghai Science and Technology Commission, Shanghai Jiao Tong University.
-8. Dec. 2019, The 15th Congress on Computational Methods of Science and Engineering, Shanghai Maritime University.
-9. Sep. 2019, The 2nd SJTU-HKBU Joint Workshop, Shanghai Jiao Tong University.
+## Academic background
 
-**Conference Organization**
+I received my Ph.D. in computational mathematics from Shanghai Jiao Tong University in 2023, advised by [Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/), and my B.S. in mathematics from Zhiyuan College, Shanghai Jiao Tong University, in 2017.
 
-1. 2026, Co-organizer, Two-session Minisymposium on “When Classical Molecular Dynamics Meets Machine Learning: Algorithms and Applications,” International Conference on Scientific Computation and Differential Equations (SciCADE 2026), University of Edinburgh, UK, June 29–July 3, 2026.
-
-**Posters**
-1. Nov. 2025, The 3rd SIAM NNP Section Conference, Penn State, 2025. (**Best Poster Award** among 42 posters)
-2. Aug. 2023, The First International Congress of Basic Science (ICBS), the Yanqi Lake Beijing Institute of Mathematical Sciences and Applications.
-3. Jun. 2021, Mathematics in Action (MiA2021): Modeling and Analysis in Molecular Biology and Electrophysiology, Duke Kunshan University.
-4. Dec. 2019, The 15th Congress on Computational Methods of Science and Engineering, Shanghai Maritime University.
-5. Jun. 2019, Annual Academic Committee of the Ministry of Education Key Laboratory, Shanghai Jiao Tong University
-
-Mentoring
-======
-1. **Summer Research Intern at the Center for Computational Mathematics (Flatiron Institute)**  
-<span style="font-size:0.9em;">**Position Summary**:</span> Applications are invited for paid, full-time research internships at the Center for Computational Mathematics (CCM) in all our active areas of research. Our mission at CCM is to create new mathematical approaches, algorithms and software to advance scientific research in multiple disciplines, often in collaboration with other Flatiron Centers.  
-<span style="font-size:0.9em;">**Topic**:</span> Fast Algorithm for Monte Carlo Simulations of Particle Systems   
-<span style="font-size:0.9em;">**Duration**:</span> May 2025 - July 2025   
-<span style="font-size:0.9em;">**Co-mentors**:</span> [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/)   
-<span style="font-size:0.9em;">**Student**: [Qi Zhou](https://www.researchgate.net/profile/Qi_Zhou51)   
-
-Patent
-======
-1. Jun. 25, 2025, A molecular dynamics simulation system. Chinese Patent Application, Application Number: CN202510672289.X.
-1. Jun. 06, 2025, A near-field acceleration method for the random batch Ewald method. Chinese Patent, Publication Number: CN114944201A.
-1. Jun. 21, 2024, A random batch sum-of-Gaussians method for molecular dynamics simulations. Chinese Patent, Patent Number: CN114937477B.
-1. Aug. 09, 2022, Method and System for Calculating Particle Interactions. Chinese Patent, Patent Number: CN112733416B.
-
-Honors and Awards (2017-)
-======
-1. 2025, Best Poster Award, The 3rd SIAM NNP Section Conference, Penn State, 2025.
-1. 2025, Selected for the Fourth Youth Talent Support Program of the Chinese Society for Industrial and Applied Mathematics (CSIAM)
-1. 2023, Selected for the "Siyuan" Postdoctoral Overseas Fellowship Program
-1. 2022, The 7th Academic Star of Shanghai Jiao Tong University (10 students from various disciplines at Shanghai Jiao Tong University)
-1. 2022, National Scholarship
-1. 2022, Shanghai Outstanding Doctoral Graduates
-1. 2021, Shanghai Advanced Research Base of Modern Analysis Scholarship
-1. 2021, National Scholarship <!--7. 2020, Huawei Doctoral Scholarship (first-class)-->
-1. 2019, Kaiyuan scholarship (12 of students at Shanghai Jiao Tong University)
-1. 2018, Zhefu Tao scholarship <!-- 10. 2017-2019, First-class Academic Scholarship at Shanghai Jiao Tong University 11. 2020 and 2021, Merit Student at Shanghai Jiao Tong University--> <!--12. 2017, 2018 and 2020, Excellent league member at Shanghai Jiao Tong University-->
-1. 2017, Honorary Graduate at Zhiyuan College
-
-<!--\begin{enumerate}\item 2025-2027, Principal Investigator, The Fourth Youth Talent Support Program of the Chinese Society for Industrial and Applied Mathematics (CSIAM).\item 2025-2027, Principal Investigator, Young Scientists Fund of the National Natural Science Foundation of China.\item 2024-2027, Principal Investigator, General Program of the China Postdoctoral Science Foundation.\end{enumerate}-->
-
-Research Grants and Talent Programs
-======
-1. 2026, Selected for the Young Top-Notch Talents Program of the National Special Support Program for High-Level Talents.
-1. 2025, Selected for the Fourth Youth Talent Support Program of the Chinese Society for Industrial and Applied Mathematics (CSIAM).
-1. 2025–2027, Principal Investigator, Young Scientists Fund, National Natural Science Foundation of China (NSFC).
-1. 2024–2027, Principal Investigator, General Program, China Postdoctoral Science Foundation.
-
-Journal Referees
-======
-Computer Physics Communications, Physical Review Letters, Nature Communications, SIAM Journal on Applied Mathematics, Journal of Computational Physics, Journal of Chemical Theory and Computation, Advances in Applied Mathematics and Mechanics, Chinese Journal of Computers (in Chinese), Scientific Reports, and Advanced Science.
+[Talks and posters]({{ '/activities/' | relative_url }}#talks-and-posters){: #talks-and-posters} · [Mentoring]({{ '/activities/' | relative_url }}#mentoring){: #mentoring} · [Honors and awards]({{ '/activities/' | relative_url }}#honors-and-awards){: #honors-and-awards-2017-} · [Grants]({{ '/activities/' | relative_url }}#research-grants-and-talent-programs){: #research-grants-and-talent-programs} · [Patents]({{ '/activities/' | relative_url }}#patents){: #patent} · [Journal refereeing]({{ '/activities/' | relative_url }}#journal-refereeing){: #journal-referees}
