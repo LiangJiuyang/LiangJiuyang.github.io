@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on computational mathematics and machine learning for scientific computing. I develop fast algorithms and interatomic potentials for systems with long-range interactions. My work combines mathematical analysis, algorithm development, and high-performance computing for molecular dynamics, Monte Carlo simulation, and numerical PDEs.
+My research spans applied and computational mathematics as well as scientific machine learning. I develop fast algorithms and interatomic potentials for systems with long-range interactions. My work combines mathematical analysis, algorithm development, and high-performance computing for molecular dynamics, Monte Carlo simulation, and numerical PDEs.
 
 I am an Assistant Research Fellow at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and a visiting scholar at the [Center for Computational Mathematics, Flatiron Institute](https://www.simonsfoundation.org/people/jiuyang-liang/), where I work with [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Leslie Greengard](https://www.simonsfoundation.org/people/leslie-greengard/).
 
