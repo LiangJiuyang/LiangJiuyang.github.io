@@ -27,7 +27,7 @@ I received my Ph.D. in computational mathematics from Shanghai Jiao Tong Univers
 ## Selected publications
 {: #publications}
 
-- **Ewald summation with prolates (ESP).** We use prolate spheroidal wave functions to reduce the grid and communication costs of long-range electrostatics in molecular dynamics. [Nature Communications, 2026](https://doi.org/10.1038/s41467-026-73232-8)
+- **Ewald summation with prolates (ESP).** We use prolate spheroidal wave functions to reduce the grid and communication costs of long-range electrostatics in molecular dynamics. [**Nature Communications**, 2026](https://doi.org/10.1038/s41467-026-73232-8)
 - **Machine-learning interatomic potentials for long-range systems (SOG-Net).** We use a sum-of-Gaussians representation to learn long-range interactions in molecular and condensed-phase systems. [Physical Review Letters, 2025](https://doi.org/10.1103/ssp9-7s81) (Editors’ Suggestion)
 - **Spectral electrostatics in quasi-2D systems.** We develop a fast sum-of-Gaussians method with spectral accuracy for systems periodic in two directions and nonperiodic in the third. [Numerische Mathematik, 2026](https://doi.org/10.1007/s00211-025-01518-y)
 - **Fast Monte Carlo for periodic Coulomb systems.** We develop an algorithm with logarithmic cost per Monte Carlo step for periodic systems with long-range Coulomb interactions. [SIAM Journal on Scientific Computing, 2026](https://doi.org/10.1137/26M1841938)

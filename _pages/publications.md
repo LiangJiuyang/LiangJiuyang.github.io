@@ -16,7 +16,7 @@ author_profile: true
 
 ### 2026
 
-1. **J. Liang**, L. Lu, A. Barnett, L. Greengard, S. Jiang, [Accelerating molecular dynamics simulations using fast Ewald summation with prolates](https://doi.org/10.1038/s41467-026-73232-8), *Nature Communications* 17 (2026), 6681.
+1. **J. Liang**, L. Lu, A. Barnett, L. Greengard, S. Jiang, [Accelerating molecular dynamics simulations using fast Ewald summation with prolates](https://doi.org/10.1038/s41467-026-73232-8), ***Nature Communications*** 17 (2026), 6681.
 1. **J. Liang**, L. Lu, and S. Jiang\*, [Fast Ewald Summation with Prolates for Charged Systems in the NPT Ensemble](https://doi.org/10.1016/j.jcp.2026.115286), *Journal of Computational Physics*, 566 (2026), 115286.
 1. X. Gao, S. Jiang, **J. Liang**\*, Z. Xu, Q. Zhou, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://doi.org/10.1007/s00211-025-01518-y), ***Numerische Mathematik*** 158 (2026), 533–585.
 1. X. Gao, S. Jiang, **J. Liang**, and Q. Zhou, [An O(log N) Monte Carlo method for periodic Coulomb systems](https://doi.org/10.1137/26M1841938), *SIAM J. Sci. Comput.* 48(5) (2026), A3182–A3207.
