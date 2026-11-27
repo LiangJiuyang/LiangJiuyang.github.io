@@ -19,7 +19,7 @@ I am an Assistant Research Fellow at [Shanghai Jiao Tong University](https://www
 
 - **Fast algorithms for particle systems.** I develop kernel approximations, spectral methods, and randomized algorithms for efficient long-range calculations, including electrostatics in bulk and at interfaces.
 - **Machine learning for long-range interactions.** I study how to represent nonlocal interactions in interatomic potentials, with an emphasis on electrostatics and polarization.
-- **Fast solvers for PDEs.** I work on kernel splitting and fast convolution for wave and potential problems.
+- **Fast solvers for PDEs.** I develop fast algorithms for the Poisson equation and kernel-splitting methods for wideband Helmholtz problems.
 - **High-performance computing.** I design scalable CPU and GPU implementations of numerical algorithms, with an emphasis on reducing communication and memory costs in large simulations.
 
 ## Selected publications
@@ -29,7 +29,7 @@ I am an Assistant Research Fellow at [Shanghai Jiao Tong University](https://www
 - **Machine-learning interatomic potentials for long-range systems (SOG-Net).** We use a sum-of-Gaussians representation to learn long-range interactions in molecular and condensed-phase systems. [Physical Review Letters, 2025](https://doi.org/10.1103/ssp9-7s81) (Editors’ Suggestion)
 - **Spectral electrostatics in quasi-2D systems.** We develop a fast sum-of-Gaussians method with spectral accuracy for systems periodic in two directions and nonperiodic in the third. [Numerische Mathematik, 2026](https://doi.org/10.1007/s00211-025-01518-y)
 - **Fast Monte Carlo for periodic Coulomb systems.** We develop an algorithm with logarithmic cost per Monte Carlo step for periodic systems with long-range Coulomb interactions. [SIAM Journal on Scientific Computing, 2026](https://doi.org/10.1137/26M1841938)
-- **Error analysis of the u-series method.** We derive error bounds for electrostatic energies and forces and use them to guide parameter selection for a target accuracy. [Applied and Computational Harmonic Analysis, 2025](https://doi.org/10.1016/j.acha.2025.101759)
+- **Error analysis of the u-series method.** The u-series is used to compute electrostatics on D. E. Shaw Research’s Anton 2 and Anton 3 supercomputers. Our error bounds show how the number of Gaussian terms and the real-space cutoff affect energy and force accuracy, helping users choose parameters that meet a target tolerance. [Applied and Computational Harmonic Analysis, 2025](https://doi.org/10.1016/j.acha.2025.101759)
 
 [Full publication list]({{ '/publications/' | relative_url }}) · [Preprints]({{ '/publications/' | relative_url }}#preprints){: #preprints}
 
@@ -37,7 +37,7 @@ I am an Assistant Research Fellow at [Shanghai Jiao Tong University](https://www
 {: #software}
 
 - **Ewald summation with prolates:** available in [LAMMPS as `kspace_style esp`](https://docs.lammps.org/kspace_style.html) ([development repository](https://github.com/LiangJiuyang/Ewald-Splitting-with-Prolates)). See also the [GROMACS implementation](https://github.com/lu1and10/Ewald-Splitting-with-Prolates). The [OpenMM integration of NVIDIA cuPotential](https://docs.nvidia.com/cuda/cupotential/theory/splitting) uses prolate splitting by default.
-- **Automatic slab sizing in LAMMPS:** [`kspace_modify slab auto`](https://docs.lammps.org/kspace_modify.html) selects the slab extension for quasi-2D Ewald and PPPM electrostatics from the force tolerance and box geometry.
-- **Random batch Ewald (RBE):** research implementations for long-range electrostatics in molecular dynamics. [LAMMPS code](https://github.com/randbatch-md/lammps-rbe) · [GROMACS code](https://github.com/randbatch-md/gromacs-rbe)
-- **SOE and SOG kernel approximations:** [VPMR](https://github.com/LiangJiuyang/VPMR) provides MATLAB tools for approximating kernels by sums of exponentials or Gaussians. [SumOfExponentials.jl](https://github.com/LiangJiuyang/SumOfExponentials.jl) implements the SOE method in Julia.
 - **SOG-Net:** [code and examples](https://github.com/DuktigYajie/SOG-Net) for learning long-range interactions in machine learning interatomic potentials, including Deep-SOG and CACE-SOG.
+- **Automatic slab sizing in LAMMPS:** [`kspace_modify slab auto`](https://docs.lammps.org/kspace_modify.html) selects the slab extension for quasi-2D Ewald and PPPM electrostatics from the force tolerance and box geometry.
+- **Random batch Ewald (RBE):** high-performance parallel implementations for long-range electrostatics in molecular dynamics. [LAMMPS code](https://github.com/randbatch-md/lammps-rbe) · [GROMACS code](https://github.com/randbatch-md/gromacs-rbe)
+- **SOE and SOG kernel approximations:** [VPMR](https://github.com/LiangJiuyang/VPMR) provides MATLAB tools for approximating kernels by sums of exponentials or Gaussians. [SumOfExponentials.jl](https://github.com/LiangJiuyang/SumOfExponentials.jl) implements the SOE method in Julia. The [C++ implementation](https://github.com/TLCFEM/vpmr) also supports SOE approximations and provides Python bindings.
