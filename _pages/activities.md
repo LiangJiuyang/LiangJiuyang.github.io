@@ -48,8 +48,8 @@ In summer 2025, I co-mentored [Qi Zhou](https://www.researchgate.net/profile/Qi_
 
 ## Patents
 
-1. Jun. 25, 2025, A molecular dynamics simulation system. Chinese Patent Application, Application Number: CN202510672289.X.
-1. Jun. 06, 2025, A near-field acceleration method for the random batch Ewald method. Chinese Patent, Publication Number: CN114944201A.
+1. July 25, 2025, A molecular dynamics simulation system. Chinese patent [CN120183519B](https://patents.google.com/patent/CN120183519B/zh).
+1. June 6, 2025, A near-field acceleration method for the random batch Ewald algorithm. Chinese patent [CN114944201B](https://patents.google.com/patent/CN114944201B/en).
 1. Jun. 21, 2024, A random batch sum-of-Gaussians method for molecular dynamics simulations. Chinese Patent, Patent Number: CN114937477B.
 1. Aug. 09, 2022, Method and System for Calculating Particle Interactions. Chinese Patent, Patent Number: CN112733416B.
 
