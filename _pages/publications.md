@@ -53,6 +53,7 @@ author_profile: true
 
 ## Preprints
 
+1. S. Jiang, **J. Liang**, and L. Lu, [Kernel Design in Particle Mesh Ewald Methods: Splitting, Interpolation, and Upsampling](https://arxiv.org/abs/2611.23737) (2026).
 1. **J. Liang**, L. Lu, Y. Ji, and S. Jiang, [Prolate spheroidal wave functions enable fast and exponent-aware long-range machine learning interatomic potentials](https://arxiv.org/abs/2606.06617) (2026).
 1. Z. Jiang, **J. Liang**, and Q. Zhou, [Random batch sum-of-Gaussians method for molecular dynamics simulation of particle systems in the NPT ensemble](https://arxiv.org/abs/2602.23582) (2026).
 1. **J. Liang**, Accurate error estimation and parameter selection for Ewald summation with prolates (manuscript).
