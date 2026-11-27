@@ -1,4 +1,9 @@
-# main links links
 main:
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "Publications"
+    url: /publications/
+  - title: "Software"
+    url: /#software
+  - title: "Academic Activities"
+    url: /activities/
+  - title: "Research Funding and Recognition"
+    url: /funding-and-recognition/
