@@ -15,7 +15,7 @@ I am an Assistant Research Fellow at [Shanghai Jiao Tong University](https://www
 I received my Ph.D. in computational mathematics from Shanghai Jiao Tong University in 2023, advised by [Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/), and my B.S. in mathematics from Zhiyuan College, Shanghai Jiao Tong University, in 2017.
 {: #academic-background}
 
-[Talks and posters]({{ '/activities/' | relative_url }}#talks-and-posters){: #talks-and-posters} · [Mentoring]({{ '/activities/' | relative_url }}#mentoring){: #mentoring} · [Honors and awards]({{ '/activities/' | relative_url }}#honors-and-awards){: #honors-and-awards-2017-} · [Grants]({{ '/activities/' | relative_url }}#research-grants-and-talent-programs){: #research-grants-and-talent-programs} · [Patents]({{ '/activities/' | relative_url }}#patents){: #patent} · [Journal refereeing]({{ '/activities/' | relative_url }}#journal-refereeing){: #journal-referees}
+[Talks and posters]({{ '/activities/' | relative_url }}#talks-and-posters){: #talks-and-posters} · [Mentoring]({{ '/activities/' | relative_url }}#mentoring){: #mentoring} · [Honors and awards]({{ '/funding-and-recognition/' | relative_url }}#honors-and-awards){: #honors-and-awards-2017-} · [Grants]({{ '/funding-and-recognition/' | relative_url }}#research-grants-and-talent-programs){: #research-grants-and-talent-programs} · [Patents]({{ '/activities/' | relative_url }}#patents){: #patent} · [Journal refereeing]({{ '/activities/' | relative_url }}#journal-refereeing){: #journal-referees}
 
 ## Research interests
 
