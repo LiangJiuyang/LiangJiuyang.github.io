@@ -7,14 +7,29 @@ redirect_from:
   - /teaching/
 ---
 
-[Research Grants and Talent Programs](#research-grants-and-talent-programs) · [Talks and posters](#talks-and-posters) · [Mentoring](#mentoring) · [Honors and awards](#honors-and-awards) · [Journal refereeing](#journal-refereeing)
+[Research Funding and Recognition](#research-funding-and-recognition) · [Talks and posters](#talks-and-posters) · [Mentoring](#mentoring) · [Journal refereeing](#journal-refereeing)
 
-## Research Grants and Talent Programs
+## Research Funding and Recognition
+
+### Research Grants and Talent Programs
 
 1. 2026, Selected for the Young Top-Notch Talents Program of the National Special Support Program for High-Level Talents.
 1. 2025, Selected for the Fourth Youth Talent Support Program of the Chinese Society for Industrial and Applied Mathematics (CSIAM).
 1. 2025–2027, Principal Investigator, Young Scientists Fund, National Natural Science Foundation of China (NSFC).
 1. 2024–2027, Principal Investigator, General Program, China Postdoctoral Science Foundation.
+
+### Honors and Awards
+
+1. 2025, Best Poster Award, 3rd SIAM NNP Section Conference, Penn State.
+1. 2023, Selected for the "Siyuan" Postdoctoral Overseas Fellowship Program
+1. 2022, The 7th Academic Star of Shanghai Jiao Tong University
+1. 2022, National Scholarship
+1. 2022, Shanghai Outstanding Doctoral Graduates
+1. 2021, Shanghai Advanced Research Base of Modern Analysis Scholarship
+1. 2021, National Scholarship
+1. 2019, Kaiyuan Scholarship, Shanghai Jiao Tong University
+1. 2018, Zhefu Tao Scholarship
+1. 2017, Honorary Graduate at Zhiyuan College
 
 ## Talks and posters
 
@@ -59,19 +74,6 @@ In summer 2025, I co-mentored [Qi Zhou](https://www.researchgate.net/profile/Qi_
 1. June 6, 2025, A near-field acceleration method for the random batch Ewald algorithm. Chinese patent [CN114944201B](https://patents.google.com/patent/CN114944201B/en).
 1. Jun. 21, 2024, A random batch sum-of-Gaussians method for molecular dynamics simulations. Chinese Patent, Patent Number: CN114937477B.
 1. Aug. 09, 2022, Method and System for Calculating Particle Interactions. Chinese Patent, Patent Number: CN112733416B.
-
-## Honors and awards
-
-1. 2025, Best Poster Award, 3rd SIAM NNP Section Conference, Penn State.
-1. 2023, Selected for the "Siyuan" Postdoctoral Overseas Fellowship Program
-1. 2022, The 7th Academic Star of Shanghai Jiao Tong University
-1. 2022, National Scholarship
-1. 2022, Shanghai Outstanding Doctoral Graduates
-1. 2021, Shanghai Advanced Research Base of Modern Analysis Scholarship
-1. 2021, National Scholarship
-1. 2019, Kaiyuan Scholarship, Shanghai Jiao Tong University
-1. 2018, Zhefu Tao Scholarship
-1. 2017, Honorary Graduate at Zhiyuan College
 
 ## Journal refereeing
 
