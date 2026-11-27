@@ -19,7 +19,7 @@ I am an Assistant Research Fellow at [Shanghai Jiao Tong University](https://www
 
 - **Fast algorithms for particle systems.** I develop kernel approximations, spectral methods, and randomized algorithms for efficient long-range calculations, including electrostatics in bulk and at interfaces.
 - **Machine learning for long-range interactions.** I study how to represent nonlocal interactions in interatomic potentials, with an emphasis on electrostatics and polarization.
-- **Fast solvers for PDEs.** I work on kernel splitting and fast convolution for wave and potential problems.
+- **Fast solvers for PDEs.** I develop fast algorithms for the Poisson equation and kernel-splitting methods for wideband Helmholtz problems.
 - **High-performance computing.** I design scalable CPU and GPU implementations of numerical algorithms, with an emphasis on reducing communication and memory costs in large simulations.
 
 ## Selected publications
