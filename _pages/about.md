@@ -22,6 +22,8 @@ I am an Assistant Research Fellow at [Shanghai Jiao Tong University](https://www
 - **Fast solvers for PDEs.** I develop fast algorithms for the Poisson equation and kernel-splitting methods for wideband Helmholtz problems.
 - **High-performance computing.** I design scalable CPU and GPU implementations of numerical algorithms, with an emphasis on reducing communication and memory costs in large simulations.
 
+{% include litfsi-visualization.html %}
+
 ## Selected publications
 {: #publications}
 

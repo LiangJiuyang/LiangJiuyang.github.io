@@ -1,0 +1,67 @@
+<style>
+  .litfsi-media { margin: 1.35rem 0 1.9rem; }
+  .litfsi-media__title { margin: 0 0 .55rem; font-weight: 700; }
+  .litfsi-media__grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+  .page__content .litfsi-media__grid figure { display: block; width: 100%; min-width: 0; margin: 0; }
+  .litfsi-media__grid img, .litfsi-media__grid video {
+    display: block; width: 100%; height: auto; aspect-ratio: 1180 / 660;
+    margin: 0; box-sizing: border-box; object-fit: contain;
+    border: 1px solid #dfe6eb; border-radius: 6px; background: #0b1820;
+  }
+  .page__content .litfsi-media__grid figcaption { margin: 6px 0 0; font: inherit; font-size: .75rem; }
+  .litfsi-media__toggle { margin-left: .4em; cursor: pointer; font: inherit; }
+  @media (max-width: 640px) {
+    .litfsi-media__grid { grid-template-columns: minmax(0, 1fr); gap: 13px; }
+  }
+</style>
+<div class="litfsi-media" id="research-visualization" aria-labelledby="litfsi-title">
+  <p class="litfsi-media__title" id="litfsi-title">LiTFSI molecular visualization</p>
+  <div class="litfsi-media__grid">
+    <figure>
+      <img src="{{ '/assets/media/litfsi-still.png' | relative_url }}" width="1180" height="660" loading="lazy" alt="Still molecular rendering of a LiTFSI system, shown as colored spheres.">
+      <figcaption>Still rendering</figcaption>
+    </figure>
+    <figure>
+      <video id="litfsi-video" muted playsinline controls preload="none" poster="{{ '/assets/media/litfsi-still.png' | relative_url }}" width="960" height="538" aria-label="LiTFSI molecular animation">
+        <source src="{{ '/assets/media/litfsi-animation.mp4' | relative_url }}" type="video/mp4">
+        <a href="{{ '/assets/media/litfsi-animation.mp4' | relative_url }}">Download the LiTFSI animation</a>.
+      </video>
+      <figcaption>Animation <button type="button" class="litfsi-media__toggle" aria-controls="litfsi-video" hidden>Play</button></figcaption>
+    </figure>
+  </div>
+</div>
+<script>
+  (() => {
+    const video = document.getElementById('litfsi-video');
+    const toggle = document.querySelector('.litfsi-media__toggle');
+    if (!video || !toggle) return;
+    video.muted = true;
+    let observer;
+    const sync = () => {
+      toggle.textContent = video.paused ? (video.ended ? 'Replay' : 'Play') : 'Pause';
+    };
+    const play = () => {
+      const attempt = video.play();
+      if (attempt) attempt.catch(sync);
+    };
+    toggle.hidden = false;
+    toggle.addEventListener('click', () => {
+      if (observer) observer.disconnect();
+      if (video.paused) {
+        if (video.ended) video.currentTime = 0;
+        play();
+      } else {
+        video.pause();
+      }
+    });
+    ['play', 'pause', 'ended'].forEach(event => video.addEventListener(event, sync));
+    const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+    if (reducedMotion.matches || !('IntersectionObserver' in window)) return;
+    observer = new IntersectionObserver(entries => {
+      if (!entries.some(entry => entry.intersectionRatio >= 0.35)) return;
+      observer.disconnect();
+      if (!reducedMotion.matches) play();
+    }, { threshold: 0.35 });
+    observer.observe(video);
+  })();
+</script>
