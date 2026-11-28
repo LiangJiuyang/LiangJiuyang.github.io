@@ -9,4 +9,5 @@ author_profile: true
 - [Research software]({{ '/' | relative_url }}#software)
 - [Academic background]({{ '/' | relative_url }}#academic-background)
 - [Academic activities]({{ '/activities/' | relative_url }})
-- [Research funding and recognition]({{ '/funding-and-recognition/' | relative_url }})
+- [Research Funding and Awards]({{ '/funding-and-recognition/' | relative_url }})
+- [Image sources]({{ '/figure-credits/' | relative_url }})

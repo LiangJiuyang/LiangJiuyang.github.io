@@ -29,7 +29,7 @@ I am an Assistant Research Fellow at [Shanghai Jiao Tong University](https://www
 
 {% include selected-publications.html %}
 
-[Full publication list]({{ '/publications/' | relative_url }}) · [Preprints]({{ '/publications/' | relative_url }}#preprints){: #preprints} · [Figure credits]({{ '/figure-credits/' | relative_url }})
+[Full publication list]({{ '/publications/' | relative_url }}) · [Preprints]({{ '/publications/' | relative_url }}#preprints){: #preprints}
 
 ## Research software
 {: #software}

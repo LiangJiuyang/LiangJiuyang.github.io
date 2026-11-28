@@ -6,7 +6,7 @@
   doi: https://doi.org/10.1038/s41467-026-73232-8
   figures:
   - image: esp-fig2.png
-    caption: 'LAMMPS: up to 7.7× speedup at 106 million atoms.'
+    caption: 'ESP scaling in LAMMPS: up to 7.7× faster at 106 million atoms'
 - title: Machine-learning interatomic potentials for long-range systems (SOG-Net)
   summary: SOG-Net couples a local potential to a learned sum-of-Gaussians kernel, capturing long-range interactions in molecular
     and condensed-phase systems.
@@ -15,7 +15,7 @@
   doi: https://doi.org/10.1103/ssp9-7s81
   figures:
   - image: sog-v3.png
-    caption: Local and long-range branches of SOG-Net.
+    caption: Schematic of the SOG-Net architecture
   note: Editors’ Suggestion
 - title: Spectral electrostatics in quasi-2D systems
   summary: We develop a spectrally accurate sum-of-Gaussians solver for systems that are periodic in two directions and open
@@ -27,9 +27,9 @@
   figures:
   - image: jctc-slab.png
     published_doi: https://doi.org/10.1021/acs.jctc.5c00438
-    caption: Related slab geometry
+    caption: Quasi-2D slab with dielectric interfaces
   - image: quasi-convergence-5d.png
-    caption: Spectral convergence
+    caption: Long-range error vs. Chebyshev order
 - title: Fast Monte Carlo for periodic Coulomb systems (DMK-MC)
   summary: Dual-space multilevel kernel splitting brings the expected cost of a trial move down to logarithmic in particle
     count at fixed accuracy.
@@ -38,7 +38,7 @@
   doi: https://doi.org/10.1137/26M1841938
   figures:
   - image: dmk-fig2.svg
-    caption: Per-move timings for DMK-MC and an FMM-based method.
+    caption: 'DMK-MC vs. FMM: trial and accepted-move update times'
 - title: Error analysis of the u-series method
   summary: The u-series underlies electrostatics on D. E. Shaw Research’s Anton 2 and Anton 3 supercomputers. We derive energy
     and force error estimates that guide the choice of Gaussian terms and real-space cutoff for a target accuracy.
@@ -47,4 +47,4 @@
   doi: https://doi.org/10.1016/j.acha.2025.101759
   figures:
   - image: useries-fig4.svg
-    caption: Predicted versus measured energy and force errors.
+    caption: 'Theoretical predictions closely match the numerical energy and force errors'
