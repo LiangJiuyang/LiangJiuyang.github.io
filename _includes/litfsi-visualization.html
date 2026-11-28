@@ -1,6 +1,7 @@
 <style>
   .litfsi-media { margin: 1.35rem 0 1.9rem; }
   .litfsi-media__title { margin: 0 0 .55rem; font-weight: 700; }
+  .page__content .litfsi-media__description { margin: 0 0 .85rem; font-size: .9em; line-height: 1.5; }
   .litfsi-media__grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
   .page__content .litfsi-media__grid figure { display: block; width: 100%; min-width: 0; margin: 0; }
   .litfsi-media__grid img, .litfsi-media__grid video {
@@ -14,8 +15,9 @@
     .litfsi-media__grid { grid-template-columns: minmax(0, 1fr); gap: 13px; }
   }
 </style>
-<div class="litfsi-media" id="research-visualization" aria-labelledby="litfsi-title">
-  <p class="litfsi-media__title" id="litfsi-title">LiTFSI molecular visualization</p>
+<div class="litfsi-media" id="research-visualization" aria-labelledby="litfsi-title" aria-describedby="litfsi-description">
+  <p class="litfsi-media__title" id="litfsi-title">Large-scale LiTFSI simulation using Ewald summation with prolates (ESP)</p>
+  <p class="litfsi-media__description" id="litfsi-description">This atomistic molecular dynamics visualization shows a concentrated lithium bis(trifluoromethanesulfonyl)imide (LiTFSI) electrolyte with about one million atoms. Each sphere represents an atom, and the animation shows how the ions and their local surroundings rearrange. <a href="https://www.simonsfoundation.org/news/mathematicians-unleash-multifold-speed-boost-for-supercomputer-simulations-of-molecules/">Simons Foundation feature</a></p>
   <div class="litfsi-media__grid">
     <figure>
       <img src="{{ '/assets/media/litfsi-still.png' | relative_url }}" width="1180" height="660" loading="lazy" alt="Still molecular rendering of a LiTFSI system, shown as colored spheres.">
