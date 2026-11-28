@@ -1,5 +1,5 @@
 ---
-title: "Research Funding and Recognition"
+title: "Research Funding and Awards"
 permalink: /funding-and-recognition/
 author_profile: true
 ---
