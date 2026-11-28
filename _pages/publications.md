@@ -4,7 +4,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Jump to preprints](#preprints) · [Google Scholar]({{ site.author.googlescholar }})
+[Preprints (4)](#preprints) · [Publications (29)](#publications-by-year) · [Google Scholar]({{ site.author.googlescholar }})
+
+## Preprints
+
+1. S. Jiang, **J. Liang**, and L. Lu, [Kernel Design in Particle Mesh Ewald Methods: Splitting, Interpolation, and Upsampling](https://arxiv.org/abs/2611.23737) (2026).
+1. **J. Liang**, L. Lu, Y. Ji, and S. Jiang, [Prolate spheroidal wave functions enable fast and exponent-aware long-range machine learning interatomic potentials](https://arxiv.org/abs/2606.06617) (2026).
+1. Z. Jiang, **J. Liang**, and Q. Zhou, [Random batch sum-of-Gaussians method for molecular dynamics simulation of particle systems in the NPT ensemble](https://arxiv.org/abs/2602.23582) (2026).
+1. **J. Liang**, Accurate error estimation and parameter selection for Ewald summation with prolates (manuscript).
+{: reversed="reversed" start="33"}
 
 ## Publications by year
 
@@ -13,6 +21,7 @@ author_profile: true
 ### 2027
 
 1. C. Chen\*, **J. Liang**, Z. Xu, and Q. Zhang, [Random Batch Sum-of-Gaussians Method for Molecular Dynamics of Born–Mayer–Huggins Systems](https://doi.org/10.4208/aamm.OA-2025-0301), *Adv. Appl. Math. Mech.* 19(2) (2027), 604–627.
+{: reversed="reversed" start="29"}
 
 ### 2026
 
@@ -22,6 +31,7 @@ author_profile: true
 1. X. Gao, S. Jiang, **J. Liang**, and Q. Zhou, [An O(log N) Monte Carlo method for periodic Coulomb systems](https://doi.org/10.1137/26M1841938), *SIAM J. Sci. Comput.* 48(5) (2026), A3182–A3207.
 1. Y. Ji, **J. Liang**\*, Z. Xu, [Accurate learning of long-range interatomic potentials by coupling Cartesian atomic cluster expansion and sum-of-Gaussians neural networks](https://pubs.aip.org/aip/jcp/article/164/2/024109/3377149/Accurate-learning-of-long-range-interatomic), *J. Chem. Phys.* 164 (2026), 024109.
 1. W. Gao, T. Zhao, Y. Guo, **J. Liang**, H. Liu, M. Luo, Z. Luo, W. Qin, Y. Wang, Q. Zhou, S. Jin, and Z. Xu\*, [RBMD: A molecular dynamics package enabling to simulate 10 million all-atom particles in a single graphics processing unit](https://arxiv.org/abs/2407.09315), *Commun. Comput. Phys.*, 39(1) (2026), 296–322.
+{: reversed="reversed" start="28"}
 
 ### 2025
 
@@ -33,6 +43,7 @@ author_profile: true
 1. Z. Gan, X. Gao, **J. Liang** and Z. Xu, [Fast algorithm for quasi-2D Coulomb systems](https://www.sciencedirect.com/science/article/pii/S0021999125000166?via%3Dihub), *J. Comput. Phys.* 524 (2025), 113733.
 1. L. Li, **J. Liang**, and Z. Xu, [Comment on “Pressure of Coulomb systems with volume-dependent long-range potentials”](https://iopscience.iop.org/article/10.1088/1751-8121/adb3fd), *J. Phys. A: Math. Theor.*, 58 (2025), 088001.
 1. **J. Liang**, P. Tan, L. Hong, S. Jin, Z. Xu\*, and L. Li\*, [Response to “Comment on ‘A random batch Ewald method for charged particles in the isothermal–isobaric ensemble’”](https://pubs.aip.org/aip/jcp/article/162/17/177102/3345849/Response-to-Comment-on-A-random-batch-Ewald-method), J. Chem. Phys. 162(2025), 177102.
+{: reversed="reversed" start="22"}
 
 ### 2024 and earlier
 
@@ -50,10 +61,4 @@ author_profile: true
 1. **J. Liang**, P. Liu and Z. Xu, [A high-accurate fast Poisson solver based on harmonic surface mapping algorithm](https://doi.org/10.4208/cicp.OA-2020-0052). *Commun. Comput. Phys.*, 30(2021), 210-226.
 1. **J. Liang**, J. Yuan, E. Luijten and Z. Xu\*, [Harmonic surface mapping algorithm for molecular dynamics simulations of particle systems with planar dielectric interfaces](https://doi.org/10.1063/5.0003293). *J. Chem. Phys.*, 152(2020), 134109.
 1. Q. Zhao, **J. Liang** and Z. Xu\*, [Harmonic surface mapping algorithm for fast electrostatic sums](https://doi.org/10.1063/1.5044438). *J. Chem. Phys.*, 149(2018), 084111.
-
-## Preprints
-
-1. S. Jiang, **J. Liang**, and L. Lu, [Kernel Design in Particle Mesh Ewald Methods: Splitting, Interpolation, and Upsampling](https://arxiv.org/abs/2611.23737) (2026).
-1. **J. Liang**, L. Lu, Y. Ji, and S. Jiang, [Prolate spheroidal wave functions enable fast and exponent-aware long-range machine learning interatomic potentials](https://arxiv.org/abs/2606.06617) (2026).
-1. Z. Jiang, **J. Liang**, and Q. Zhou, [Random batch sum-of-Gaussians method for molecular dynamics simulation of particle systems in the NPT ensemble](https://arxiv.org/abs/2602.23582) (2026).
-1. **J. Liang**, Accurate error estimation and parameter selection for Ewald summation with prolates (manuscript).
+{: reversed="reversed" start="14"}
