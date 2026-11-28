@@ -47,4 +47,4 @@
   doi: https://doi.org/10.1016/j.acha.2025.101759
   figures:
   - image: useries-fig4.svg
-    caption: 'u-series: predicted vs. measured energy and force errors'
+    caption: 'Theoretical predictions closely match the numerical energy and force errors'
