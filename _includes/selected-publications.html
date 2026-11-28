@@ -33,7 +33,7 @@
     <div class="selected-publications__copy">
       <strong class="selected-publications__title">{{ publication.title | escape }}</strong>
       {{ publication.summary | escape }}
-      <span class="selected-publications__journal"><a href="{{ publication.doi | escape }}"><strong>{{ publication.journal | escape }}</strong>, {{ publication.year }}</a>{% if publication.note %} ({{ publication.note | escape }}){% endif %}</span>
+      <span class="selected-publications__journal"><a href="{{ publication.doi | escape }}"><strong>{{ publication.journal | escape }}, {{ publication.year }}</strong></a>{% if publication.note %} ({{ publication.note | escape }}){% endif %}</span>
     </div>
     <div class="selected-publications__art{% if publication.figures.size > 1 %} selected-publications__art--pair{% endif %}">
       {% for figure in publication.figures %}
