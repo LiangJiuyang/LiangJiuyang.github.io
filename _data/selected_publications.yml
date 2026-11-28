@@ -6,10 +6,7 @@
   doi: https://doi.org/10.1038/s41467-026-73232-8
   figures:
   - image: esp-fig2.png
-    source: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-026-73232-8/MediaObjects/41467_2026_73232_Fig2_HTML.png
     caption: 'LAMMPS: up to 7.7× speedup at 106 million atoms.'
-    credit: Liang et al., Nature Communications, Fig. 2 (CC BY-NC-ND 4.0).
-    license: https://creativecommons.org/licenses/by-nc-nd/4.0/
 - title: Machine-learning interatomic potentials for long-range systems (SOG-Net)
   summary: SOG-Net couples a local potential to a learned sum-of-Gaussians kernel, capturing long-range interactions in molecular
     and condensed-phase systems.
@@ -18,9 +15,7 @@
   doi: https://doi.org/10.1103/ssp9-7s81
   figures:
   - image: sog-v3.png
-    source: https://arxiv.org/html/2502.04668v3#S0.F1
     caption: Local and long-range branches of SOG-Net.
-    credit: Ji et al., preprint Fig. 1. © 2025 American Physical Society.
   note: Editors’ Suggestion
 - title: Spectral electrostatics in quasi-2D systems
   summary: We develop a spectrally accurate sum-of-Gaussians solver for systems that are periodic in two directions and open
@@ -30,15 +25,11 @@
   year: 2026
   doi: https://doi.org/10.1007/s00211-025-01518-y
   figures:
-  - image: gan-gao-li-slab.png
-    source: https://arxiv.org/html/2601.03125v1#S2.F1
+  - image: jctc-slab.png
+    published_doi: https://doi.org/10.1021/acs.jctc.5c00438
     caption: Related slab geometry
-    credit: Gan, Gao & Li, Fig. 1 (cropped; shows dielectric confinement).
-    license: https://creativecommons.org/licenses/by/4.0/
   - image: quasi-convergence-5d.png
-    source: https://arxiv.org/html/2412.04595v1#S5.F5
     caption: Spectral convergence
-    credit: Gao et al., preprint Fig. 5d (panel extract).
 - title: Fast Monte Carlo for periodic Coulomb systems (DMK-MC)
   summary: Dual-space multilevel kernel splitting brings the expected cost of a trial move down to logarithmic in particle
     count at fixed accuracy.
@@ -47,10 +38,7 @@
   doi: https://doi.org/10.1137/26M1841938
   figures:
   - image: dmk-fig2.svg
-    source: https://arxiv.org/html/2601.09288v1#S5.F2
     caption: Per-move timings for DMK-MC and an FMM-based method.
-    credit: Gao et al., preprint Fig. 2 / benchmark repository (MIT).
-    local_license: /assets/images/selected/dmk-fig2-LICENSE.txt
 - title: Error analysis of the u-series method
   summary: The u-series underlies electrostatics on D. E. Shaw Research’s Anton 2 and Anton 3 supercomputers. We derive energy
     and force error estimates that guide the choice of Gaussian terms and real-space cutoff for a target accuracy.
@@ -59,6 +47,4 @@
   doi: https://doi.org/10.1016/j.acha.2025.101759
   figures:
   - image: useries-fig4.svg
-    source: https://arxiv.org/html/2305.05369v2#S6.F4
     caption: Predicted versus measured energy and force errors.
-    credit: Liang et al., preprint Fig. 4.

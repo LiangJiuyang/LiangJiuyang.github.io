@@ -11,20 +11,17 @@
   .page__content .selected-publications figure { display: block; width: 100%; min-width: 0; margin: 0; }
   .selected-publications__art { min-width: 0; }
   .selected-publications__art--pair { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
-  .selected-publications__image-link {
-    display: block; box-sizing: border-box; padding: 5px;
-    border: 1px solid #e2e8ed; border-radius: 5px; background: #fff;
-  }
+  .page__content .selected-publications__image-link { display: block; border: 0; background: transparent; }
+  .selected-publications__image-link:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; }
   .selected-publications .selected-publications__image-link img {
     display: block; width: 100%; height: auto; max-height: 237px; margin: 0; object-fit: contain;
   }
-  .selected-publications__art--pair .selected-publications__image-link {
+  .page__content .selected-publications__art--pair .selected-publications__image-link {
     display: grid; place-items: center; height: 136px;
   }
   .selected-publications__art--pair .selected-publications__image-link img { max-height: 124px; }
   .page__content .selected-publications figcaption { font: inherit; font-size: 12px; line-height: 1.4; margin: 6px 0 0; }
-  .selected-publications figcaption a { overflow-wrap: anywhere; }
-  .selected-publications__art--pair figcaption strong { display: block; }
+  .selected-publications__art--pair figcaption { font-weight: 600; }
   @media (max-width: 720px) {
     .selected-publications > li { grid-template-columns: minmax(0, 1fr); gap: 12px; padding: 17px 0; }
     .selected-publications__art { width: 100%; max-width: 365px; }
@@ -36,15 +33,15 @@
     <div class="selected-publications__copy">
       <strong class="selected-publications__title">{{ publication.title | escape }}</strong>
       {{ publication.summary | escape }}
-      <span class="selected-publications__journal"><a href="{{ publication.doi | escape }}"><strong>{{ publication.journal | escape }}</strong>, {{ publication.year }}</a>{% if publication.note %} ({{ publication.note | escape }}){% endif %}</span>
+      <span class="selected-publications__journal"><a href="{{ publication.doi | escape }}"><strong>{{ publication.journal | escape }}, {{ publication.year }}</strong></a>{% if publication.note %} ({{ publication.note | escape }}){% endif %}</span>
     </div>
     <div class="selected-publications__art{% if publication.figures.size > 1 %} selected-publications__art--pair{% endif %}">
       {% for figure in publication.figures %}
       <figure>
-        <a class="selected-publications__image-link" href="{{ figure.source | escape }}" aria-label="Open original figure: {{ figure.caption | escape }}">
+        <a class="selected-publications__image-link" href="{{ figure.published_doi | default: publication.doi | escape }}" aria-label="Open published paper: {{ figure.caption | escape }}">
           <img src="{{ '/assets/images/selected/' | append: figure.image | relative_url }}" loading="lazy" decoding="async" alt="{{ figure.caption | escape }}">
         </a>
-        <figcaption>{% if publication.figures.size > 1 %}<strong>{{ figure.caption | escape }}</strong>{% else %}{{ figure.caption | escape }} {% endif %}<a href="{{ figure.source | escape }}">{{ figure.credit | escape }}</a>{% if figure.license %} <a href="{{ figure.license | escape }}">License</a>{% endif %}{% if figure.local_license %} <a href="{{ figure.local_license | relative_url }}">License</a>{% endif %}</figcaption>
+        <figcaption>{{ figure.caption | escape }}</figcaption>
       </figure>
       {% endfor %}
     </div>
